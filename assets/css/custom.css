@@ -27,6 +27,9 @@ span.postdate {
 ul { list-style-type: square; }
 ul.separated li { margin-bottom: 0.3em; }
 ul.runon { margin-top: -0.7em ; }
+
+ul.posts { margin: 0; border: 1px solid black;}
+
 blockquote { font-style: italic; }
 .quotesource { 
   margin-left: 10em;
