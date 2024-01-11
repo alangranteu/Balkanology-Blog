@@ -7,7 +7,7 @@ description: Travel guide for the countries of the Balkan Peninsula
 <ul class = "posts">
 {% for post in site.posts %}
   <li>
-    {{ post.date | date_to_string }} <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+    <span class="postdate">{{ post.date | date_to_string }}</span> <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
   </li>
 {% endfor %}
 </ul>

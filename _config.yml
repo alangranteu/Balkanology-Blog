@@ -18,7 +18,7 @@ baseurl: ""
 feed:
   posts_limit: 20
 
-# permalink: /:categories/:title/
+permalink: permalink: /:year/:month/:slug:output_ext
 
 exclude:
   - Gemfile
