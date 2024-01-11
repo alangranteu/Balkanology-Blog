@@ -19,17 +19,9 @@ a:visited img { border: 2px solid #666666; }
 a:hover img { border: 2px solid #BB0000; }
 a:active img { border: 2px solid #666666; }
 
-span.postdate {
-   width: 14em;
-   text-align: left;
-   display: inline-block;
-}
-
 ul { list-style-type: square; }
 ul.separated li { margin-bottom: 0.3em; }
 ul.runon { margin-top: -0.7em ; }
-
-ul.posts { padding: 0;}
 
 blockquote { font-style: italic; }
 .quotesource { 
