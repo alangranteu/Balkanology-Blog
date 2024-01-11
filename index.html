@@ -1,0 +1,12 @@
+---
+layout: default
+title: Balkanology | Explore Southeast Europe | Blog
+description: Travel guide for the countries of the Balkan Peninsula
+---
+
+{% for post in site.posts %}
+  <div class="blog-item">
+    <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+    <p class="meta">{{ post.date | date_to_string }}</p>
+  </div>
+{% endfor %}

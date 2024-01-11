@@ -1,0 +1,263 @@
+/* Main Stylesheet for Balkanology.com - Alan Grant 2006 */
+
+body {
+    max-width: 70rem;
+	margin: 0 auto 0 auto;
+    font-family:  arial, sans-serif;
+	padding: 0;
+	color: #000000;
+	background-color: #EEEEEE;
+	font-size: 100%; 
+}
+
+a:link { color: #660000; background-color: transparent; }
+a:visited { color: #BB0055; background-color: transparent; }
+a:hover { color: #BB0000; background-color: transparent;}
+a:active { color: #660000; background-color: transparent;}
+a:link img { border: 2px solid #666666; }
+a:visited img { border: 2px solid #666666; }
+a:hover img { border: 2px solid #BB0000; }
+a:active img { border: 2px solid #666666; }
+
+ul { list-style-type: square; }
+ul.separated li { margin-bottom: 0.3em; }
+ul.runon { margin-top: -0.7em ; }
+blockquote { font-style: italic; }
+.quotesource { 
+  margin-left: 10em;
+  margin-top: -0.7em; 
+}
+
+h1 {
+	margin: 0;
+    font-family: "maiandra gd", tahoma, arial, sans-serif;
+	font-variant: small-caps;
+}
+h1 a:link, h1 a:visited , h1 a:hover, h1 a:active {
+    text-decoration: none;
+	color: #FFFFFF;
+	background-color: transparent;
+}
+
+h2, h3, h4 {
+    font-family: georgia, tahoma, arial, sans-serif;
+	color: #990000;
+}
+
+h5, h6 {
+   font-size: 100%;
+   font-family: tahoma, arial, sans-serif;
+   color: #990000;
+   margin-bottom: 0;
+}
+
+div#mainbox {
+    background-color: #FFFFFF;
+	color: #000000;
+	border: 1px solid #999999;
+	padding: 1em;
+	line-height: 140%;  
+}
+
+div#banner {
+    height: 50px; 
+	font-size: 15px;
+	background-color: #990000;
+	color: #FFFFFF; 
+}
+
+div#banner a img {border: 0px;}
+
+@media only screen and (max-width: 720px) {
+	div#banner {
+		font-size: 9px;
+	}
+}
+
+div#footer {
+  margin: 0 1rem 0 1rem;
+}
+
+footer {
+  margin: 1rem;	
+  text-align: center;	
+}
+
+nav {
+    border-left: 1px solid #999999;
+	border-right: 1px solid #999999;
+	border-top: 0;
+	border-bottom: 0;	
+}
+
+nav ul {
+    padding: 0;
+	margin: 0; 
+	font-size: 0.8rem;
+	list-style-type: none;
+	font-weight: bold;
+	overflow: hidden;
+}
+
+nav ul li {
+    float: left;
+	padding: 0;
+}
+
+nav ul a {
+   display: block;
+   text-decoration: none;
+   padding: 0.3em 0.5em 0.3rem 0.5em;	    
+} 
+
+nav ul a:hover {
+    background-color: #990000;
+	color: #FFFFFF; 
+}
+
+nav ul a.current {
+    background-color: #666666;
+	color: #FFFFFF; 
+}
+
+div.topmenu { 
+    font-size: 0.9em;
+	font-weight: bold;
+    margin-top: 1em;
+	margin-bottom: 2em;
+	line-height: 125%;
+}
+
+ul.menuacross li {
+    display: inline;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+}
+
+div.topmenu ul.menuacross {
+    display: inline; 
+	padding-left: 1em;
+	padding-right: 1em;
+	font-weight: normal;
+	border-bottom: 1px solid #666666;
+	line-height: 150%;
+}
+
+div.topmenu a:link, div.topmenu a:visited, div.topmenu a:hover, div.topmenu a:active {
+    text-decoration: none;	
+	background-color: #EEEEEE;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+}
+
+div.topmenu a.current:link, div.topmenu a.current:visited, div.topmenu a.current:hover, div.topmenu a.current:active {
+  background-color: #666666;
+	color: #FFFFFF;
+}
+
+div#footer ul.menuacross { 
+    font-size: 0.9em;
+	text-align: center;
+	margin-top: 0.5em;
+	padding: 0;
+}
+
+div#footer ul.menuacross li {
+	border-right: 1px solid #999999;
+}
+div#footer ul.menuacross li.lastitem {
+	border-right: none;
+}
+
+.aside {
+	background-color: #EEEEEE;
+	color: #000000;
+	border: 1px solid #999999;
+	padding: 0 0.5rem 0 0.5rem;
+}
+
+.aside blockquote {
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+div.imagebox, div.imageboxleft, div.imageboxright {
+	font-size: 0.9em;
+	background-color: #DDDDDD;
+	color: #000000;
+	border: 1px solid #999999;
+}
+
+div.imagebox { text-align: center; margin: 5px 0px 0px 0px; }
+div.imageboxleft { text-align: center; float : left; margin: 5px 10px 5px 0px; }
+div.imageboxright { text-align: center; float : right; margin: 5px 0px 5px 10px; }
+div.imagebox img, div.imageboxleft img, div.imageboxright img { padding: 10px 5px 0px 5px; max-width: 100%;}
+div.imagebox p, div.imageboxleft p, div.imageboxright p { margin: 5px; font-weight: bold; } 
+
+div.innerlink { 
+	text-align: center;
+	margin-bottom: 1em;
+	font-size: 0.9em;
+}
+
+span.sitename { font-variant: small-caps; }
+span.bookname { font-style: italic; }
+p.narrow { width: 50% }
+
+div.disclaimer {
+	background-color: #F3F3F3;
+	color: #000000;
+	border: 2px solid #BB0000;
+	padding: 0.5em;
+}
+
+div.disclaimer h3 {
+	margin: 0.3em 0 0.3em 0;
+	padding: 0;
+	text-align: center;
+}
+
+div.disclaimer p {
+	margin: 0;
+	padding: 0;
+}
+
+/* Extra styles for specific pages */
+ul.linklist h4, ol.faqlist h4, table.gentable h4 { 
+	font-family: arial, sans-serif; 
+	margin-bottom: 0; 
+	display: inline;
+  }
+  ul.linklist h5 {
+	 font-family: arial, sans-serif; 
+	 font-size: 100%;
+	 margin-right: 2em;
+	 display: inline;
+  }
+  ul.linklist p, ol.faqlist p, ol.faqlist ul { margin-top: 0.5em; margin-bottom: 0.5em }
+  ul.linklist li { margin-top: 0.5em;}
+  
+  table.gentable td {
+	vertical-align: middle; 
+	padding: 0.5em; 
+	border: 1px solid #BBBBBB;
+  }
+  table.gentable td.more { 
+	text-align: center;
+	font-size: 0.8em;
+	background-color: #DDDDDD; 
+	width: 7.5em;
+	border: 1px dotted #660000;
+	font-weight: bold;
+  }
+  table.gentable td.more p { padding : 0 }
+   
+  a.mapref:link, a.mapref:visited, a.mapref:hover, a.mapref:active { 
+	color: #006600; 
+	  background-color: transparent;
+	font-weight: bold;
+  }
+  
+  table.dark { background-color: #DDDDDD; }
+  table.alphabet { border: 1px solid #BBBBBB; text-align: center; font-size: 15px;  margin-left: auto; margin-right: auto; }
+  table.alphabet th { padding-left: 0.4em; padding-right: 0.4em; }

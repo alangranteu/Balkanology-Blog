@@ -1,0 +1,32 @@
+- name: Home
+  link: https://balkanology.com
+- name: Overview
+  link: https://balkanology.com/overview/
+- name: Albania
+  link: https://balkanology.com/albania/
+- name: Bosnia & Herz.
+  link: https://balkanology.com/bosnia/
+- name: Bulgaria
+  link: https://balkanology.com/bulgaria/
+- name: Croatia
+  link: https://balkanology.com/croatia/
+- name: Greece
+  link: https://balkanology.com/greece/
+- name: Kosovo
+  link: https://balkanology.com/kosovo/
+- name: N Macedonia
+  link: https://balkanology.com/macedonia/
+- name: Montenegro
+  link: https://balkanology.com/Montenegro/
+- name: Romania
+  link: https://balkanology.com/romania/
+- name: Serbia
+  link: https://balkanology.com/serbia/
+- name: Slovenia
+  link: https://balkanology.com/slovenia/
+- name: Turkey
+  link: https://balkanology.com/turkey/
+- name: Blog
+  link: /
+- name: About
+  link: https://balkanology.com/general/about.html
