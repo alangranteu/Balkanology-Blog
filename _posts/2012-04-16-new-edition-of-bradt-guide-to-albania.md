@@ -1,8 +1,8 @@
 ---
 date: '2012-04-16T19:00:00.000+01:00'
-description: ''
+description: New edition of the Bradt Guide to Albania
 published: true
-slug: 2012-04-16-new-edition-of-bradt-guide-to-albania
+slug: new-edition-of-bradt-guide-to-albania
 title: New edition of the Bradt Guide to Albania
 ---
 

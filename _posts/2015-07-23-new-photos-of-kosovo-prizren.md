@@ -1,8 +1,8 @@
 ---
 date: '2015-07-23T17:39:00.002+01:00'
-description: ''
+description: 'New photos of Kosovo: Prizren'
 published: true
-slug: 2015-07-23-new-photos-of-kosovo-prizren
+slug: new-photos-of-kosovo-prizren
 title: 'New photos of Kosovo: Prizren'
 ---
 

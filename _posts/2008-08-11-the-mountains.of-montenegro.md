@@ -1,8 +1,8 @@
 ---
 date: '2008-08-11T16:50:00.002+01:00'
-description: The mountains of Montenegro ... and more
+description: ''
 published: true
-slug: blog-post
+slug: 2008-08-11-blog-post
 title: The mountains of Montenegro ... and more
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: '2015-07-06T12:45:00.000+01:00'
-description: ''
+description: The trains of Bulgaria - a recent experience
 published: true
-slug: 2015-07-06-the-trains-of-bulgaria-recent-experience
+slug: the-trains-of-bulgaria-recent-experience
 title: The trains of Bulgaria - a recent experience
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: '2006-07-02T16:53:00.000+01:00'
-description: ''
+description: New and improved Balkan guidebooks
 published: true
-slug: 2006-07-02-new-and-improved-balkan-guidebooks
+slug: new-and-improved-balkan-guidebooks
 title: New and improved Balkan guidebooks
 ---
 

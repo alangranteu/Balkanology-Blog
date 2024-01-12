@@ -1,8 +1,8 @@
 ---
 date: '2008-04-22T21:27:00.004+01:00'
-description: ''
+description: Cover star debut
 published: true
-slug: 2008-04-22-cover-star-debut
+slug: cover-star-debut
 title: Cover star debut
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: '2016-07-07T16:15:00.000+01:00'
-description: ''
+description: The Alpe Adria Trail
 published: true
-slug: 2016-07-07-the-alpe-adria-trail
+slug: the-alpe-adria-trail
 title: The Alpe Adria Trail
 ---
 

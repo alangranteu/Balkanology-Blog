@@ -1,8 +1,8 @@
 ---
 date: '2006-10-28T11:28:00.000+01:00'
-description: ''
+description: Michael Palin follows in my footsteps
 published: true
-slug: 2006-10-28-michael-palin-follows-in-my-footsteps
+slug: michael-palin-follows-in-my-footsteps
 title: Michael Palin follows in my footsteps
 ---
 

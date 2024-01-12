@@ -1,8 +1,8 @@
 ---
 date: '2008-07-26T17:43:00.004+01:00'
-description: ''
+description: More about Mostar and Sarajevo
 published: true
-slug: 2008-07-26-more-about-mostar-and-sarajevo
+slug: more-about-mostar-and-sarajevo
 title: More about Mostar and Sarajevo
 ---
 

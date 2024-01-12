@@ -1,8 +1,8 @@
 ---
 date: '2014-12-12T22:06:00.001Z'
-description: ''
+description: Air Serbia flies from Belgrade to Zagreb
 published: true
-slug: 2014-12-12-air-serbia-flies-from-belgrade-to-zagreb
+slug: air-serbia-flies-from-belgrade-to-zagreb
 title: Air Serbia flies from Belgrade to Zagreb
 ---
 

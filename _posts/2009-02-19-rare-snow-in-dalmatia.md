@@ -1,8 +1,8 @@
 ---
 date: '2009-02-19T21:06:00.002Z'
-description: ''
+description: Rare snow in Dalmatia
 published: true
-slug: 2009-02-19-rare-snow-in-dalmatia
+slug: rare-snow-in-dalmatia
 title: Rare snow in Dalmatia
 ---
 

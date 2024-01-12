@@ -1,8 +1,8 @@
 ---
 date: '2011-02-20T20:17:00.000Z'
-description: ''
+description: Wizzair flies from London to Skopje
 published: true
-slug: 2011-02-20-wizzair-flies-from-london-to-skopje
+slug: wizzair-flies-from-london-to-skopje
 title: Wizzair flies from London to Skopje
 ---
 

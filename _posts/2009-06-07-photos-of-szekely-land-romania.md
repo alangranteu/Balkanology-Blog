@@ -1,8 +1,8 @@
 ---
 date: '2009-06-07T14:51:00.004+01:00'
-description: ''
+description: "Photos of Sz\xE9kely Land (Romania)"
 published: true
-slug: 2009-06-07-photos-of-szekely-land-romania
+slug: photos-of-szekely-land-romania
 title: "Photos of Sz\xE9kely Land (Romania)"
 ---
 

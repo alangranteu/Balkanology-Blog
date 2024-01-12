@@ -1,8 +1,9 @@
 ---
 date: '2010-12-29T21:23:00.003Z'
-description: ''
+description: Greece cuts train services - all international trains suspended (or maybe
+  not?)
 published: true
-slug: 2010-12-29-greece-cuts-train-services-all
+slug: greece-cuts-train-services-all
 title: Greece cuts train services - all international trains suspended (or maybe not?)
 ---
 

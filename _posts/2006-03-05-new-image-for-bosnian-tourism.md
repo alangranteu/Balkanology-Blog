@@ -1,8 +1,8 @@
 ---
 date: '2006-03-05T22:32:00.000Z'
-description: ''
+description: A new image for Bosnian Tourism
 published: true
-slug: 2006-03-05-new-image-for-bosnian-tourism
+slug: new-image-for-bosnian-tourism
 title: A new image for Bosnian Tourism
 ---
 

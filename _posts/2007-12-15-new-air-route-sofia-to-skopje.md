@@ -1,8 +1,8 @@
 ---
 date: '2007-12-15T20:32:00.000Z'
-description: ''
+description: 'New air route: Sofia to Skopje'
 published: true
-slug: 2007-12-15-new-air-route-sofia-to-skopje
+slug: new-air-route-sofia-to-skopje
 title: 'New air route: Sofia to Skopje'
 ---
 

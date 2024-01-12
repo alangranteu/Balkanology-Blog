@@ -1,8 +1,8 @@
 ---
 date: '2013-11-18T19:00:00.000Z'
-description: ''
+description: BalkanViator plans for online bus tickets
 published: true
-slug: 2013-11-18-in-previous-post-i-mentioned
+slug: in-previous-post-i-mentioned
 title: BalkanViator plans for online bus tickets
 ---
 

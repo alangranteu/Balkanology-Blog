@@ -1,16 +1,14 @@
 ---
 layout: default
-title: Balkanology | Explore Southeast Europe | Blog
+title: Balkanology Blog
 description: Travel guide for the countries of the Balkan Peninsula
 ---
 
-<h2>Blog Archive</h2>
-
-<ul class = "posts">
+<ul class = "linklist">
 {% for post in site.posts %}
   <li>
-    <h3> <a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h3>
-    <span class="postdate">{{ post.date | date_to_string }}</span
+    <h4> <a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h4>
+    <span class="postdate">{{ post.date | date_to_string }}</span>
   </li>
 {% endfor %}
 </ul>

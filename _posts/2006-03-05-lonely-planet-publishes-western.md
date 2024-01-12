@@ -1,8 +1,8 @@
 ---
 date: '2006-03-05T21:40:00.000Z'
-description: ''
+description: Lonely Planet publishes Western Balkans Guide
 published: true
-slug: 2006-03-05-lonely-planet-publishes-western
+slug: lonely-planet-publishes-western
 title: Lonely Planet publishes Western Balkans Guide
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: '2008-04-21T20:05:00.006+01:00'
-description: ''
+description: Bulgaria's Black Sea in the off season
 published: true
-slug: 2008-04-21-bulgarias-black-sea-in-off-season
+slug: bulgarias-black-sea-in-off-season
 title: Bulgaria's Black Sea in the off season
 ---
 

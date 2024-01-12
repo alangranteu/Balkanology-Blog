@@ -1,8 +1,9 @@
 ---
 date: '2013-01-18T21:50:00.000Z'
-description: ''
+description: Cuts to international rail services in Croatia, Bosnia, and neighbouring
+  countries
 published: true
-slug: 2013-01-18-cuts-to-international-rail-services-in
+slug: cuts-to-international-rail-services-in
 title: Cuts to international rail services in Croatia, Bosnia, and neighbouring countries
 ---
 

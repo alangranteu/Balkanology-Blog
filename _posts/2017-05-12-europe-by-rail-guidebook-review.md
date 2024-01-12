@@ -1,8 +1,8 @@
 ---
 date: '2017-05-12T12:40:00.000+01:00'
-description: ''
+description: Europe by Rail (guidebook review)
 published: true
-slug: 2017-05-12-europe-by-rail-guidebook-review
+slug: europe-by-rail-guidebook-review
 title: Europe by Rail (guidebook review)
 ---
 

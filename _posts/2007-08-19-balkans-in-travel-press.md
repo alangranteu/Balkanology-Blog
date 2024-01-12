@@ -1,8 +1,8 @@
 ---
 date: '2007-08-19T15:20:00.001+01:00'
-description: ''
+description: The Balkans in the travel press
 published: true
-slug: 2007-08-19-balkans-in-travel-press
+slug: balkans-in-travel-press
 title: The Balkans in the travel press
 ---
 

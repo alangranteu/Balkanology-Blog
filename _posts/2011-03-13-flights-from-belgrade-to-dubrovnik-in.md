@@ -1,8 +1,8 @@
 ---
 date: '2011-03-13T10:29:00.000Z'
-description: ''
+description: Flights from Belgrade to Dubrovnik in 2011
 published: true
-slug: 2011-03-13-flights-from-belgrade-to-dubrovnik-in
+slug: flights-from-belgrade-to-dubrovnik-in
 title: Flights from Belgrade to Dubrovnik in 2011
 ---
 

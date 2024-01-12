@@ -1,8 +1,8 @@
 ---
 date: '2011-01-09T18:55:00.000Z'
-description: ''
+description: Snowboarding in the Balkans
 published: true
-slug: 2011-01-09-snowboarding-in-balkans
+slug: snowboarding-in-balkans
 title: Snowboarding in the Balkans
 ---
 

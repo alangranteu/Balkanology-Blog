@@ -1,8 +1,8 @@
 ---
 date: '2012-06-24T15:04:00.001+01:00'
-description: ''
+description: Changes to Romania-Serbia rail connections
 published: true
-slug: 2012-06-24-changes-to-romania-serbia-rail
+slug: changes-to-romania-serbia-rail
 title: Changes to Romania-Serbia rail connections
 ---
 

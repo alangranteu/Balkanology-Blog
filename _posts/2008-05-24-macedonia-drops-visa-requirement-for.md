@@ -1,8 +1,8 @@
 ---
 date: '2008-05-24T13:37:00.002+01:00'
-description: ''
+description: Macedonia drops visa requirement for Australian visitors
 published: true
-slug: 2008-05-24-macedonia-drops-visa-requirement-for
+slug: macedonia-drops-visa-requirement-for
 title: Macedonia drops visa requirement for Australian visitors
 ---
 

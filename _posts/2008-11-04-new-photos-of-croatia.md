@@ -1,8 +1,8 @@
 ---
 date: '2008-11-04T20:34:00.002Z'
-description: ''
+description: New photos of Croatia
 published: true
-slug: 2008-11-04-new-photos-of-croatia
+slug: new-photos-of-croatia
 title: New photos of Croatia
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: '2008-12-30T15:47:00.001Z'
-description: ''
+description: Timeless Macedonia on video
 published: true
-slug: 2008-12-30-timeless-macedonia-on-video
+slug: timeless-macedonia-on-video
 title: Timeless Macedonia on video
 ---
 

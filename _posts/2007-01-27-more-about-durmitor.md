@@ -1,8 +1,8 @@
 ---
 date: '2007-01-27T19:37:00.000Z'
-description: ''
+description: More about Durmitor
 published: true
-slug: 2007-01-27-more-about-durmitor
+slug: more-about-durmitor
 title: More about Durmitor
 ---
 

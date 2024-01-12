@@ -1,8 +1,8 @@
 ---
 date: '2007-03-14T19:26:00.000Z'
-description: ''
+description: An interactive map of the Balkans
 published: true
-slug: 2007-03-14-interactive-map-of-balkans
+slug: interactive-map-of-balkans
 title: An interactive map of the Balkans
 ---
 

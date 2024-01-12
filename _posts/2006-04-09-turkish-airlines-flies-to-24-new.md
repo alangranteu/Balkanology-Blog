@@ -1,8 +1,8 @@
 ---
 date: '2006-04-09T22:19:00.000+01:00'
-description: ''
+description: Turkish Airlines flies to 24 new destinations ... including Dublin
 published: true
-slug: 2006-04-09-turkish-airlines-flies-to-24-new
+slug: turkish-airlines-flies-to-24-new
 title: Turkish Airlines flies to 24 new destinations ... including Dublin
 ---
 

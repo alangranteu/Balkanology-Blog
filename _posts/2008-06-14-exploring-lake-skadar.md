@@ -1,8 +1,8 @@
 ---
 date: '2008-06-14T12:05:00.002+01:00'
-description: ''
+description: Exploring Lake Skadar
 published: true
-slug: 2008-06-14-exploring-lake-skadar
+slug: exploring-lake-skadar
 title: Exploring Lake Skadar
 ---
 

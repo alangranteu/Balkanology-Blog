@@ -1,8 +1,8 @@
 ---
 date: '2007-07-25T19:29:00.000+01:00'
-description: ''
+description: Bigger, better, more up to date Macedonia guide
 published: true
-slug: 2007-07-25-bigger-better-more-up-to-date-macedonia
+slug: bigger-better-more-up-to-date-macedonia
 title: Bigger, better, more up to date Macedonia guide
 ---
 

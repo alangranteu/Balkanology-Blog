@@ -1,8 +1,8 @@
 ---
 date: '2007-06-14T19:02:00.000+01:00'
-description: ''
+description: More flights from the UK to Romania
 published: true
-slug: 2007-06-14-more-flights-from-uk-to-romania
+slug: more-flights-from-uk-to-romania
 title: More flights from the UK to Romania
 ---
 

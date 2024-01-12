@@ -1,8 +1,8 @@
 ---
 date: '2007-06-30T12:50:00.000+01:00'
-description: ''
+description: Bridge on the Drina added to UNESCO World Heritage List
 published: true
-slug: 2007-06-30-bridge-on-drina-added-to-unesco-world
+slug: bridge-on-drina-added-to-unesco-world
 title: Bridge on the Drina added to UNESCO World Heritage List
 ---
 

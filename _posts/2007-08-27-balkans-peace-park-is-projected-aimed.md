@@ -1,8 +1,8 @@
 ---
 date: '2007-08-27T15:10:00.000+01:00'
-description: ''
+description: Balkans Peace Park nominated for tourism award
 published: true
-slug: 2007-08-27-balkans-peace-park-is-projected-aimed
+slug: balkans-peace-park-is-projected-aimed
 title: Balkans Peace Park nominated for tourism award
 ---
 

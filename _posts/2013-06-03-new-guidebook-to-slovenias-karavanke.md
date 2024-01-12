@@ -1,8 +1,8 @@
 ---
 date: '2013-06-03T15:46:00.000+01:00'
-description: ''
+description: New guidebook to Slovenia's Karavanke Mountains
 published: true
-slug: 2013-06-03-new-guidebook-to-slovenias-karavanke
+slug: new-guidebook-to-slovenias-karavanke
 title: New guidebook to Slovenia's Karavanke Mountains
 ---
 

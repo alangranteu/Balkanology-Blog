@@ -1,8 +1,8 @@
 ---
 date: '2008-07-09T21:56:00.002+01:00'
-description: ''
+description: Berat and Stari Grad added to World Heritage list
 published: true
-slug: 2008-07-09-berat-and-stari-grad-added-to-world
+slug: berat-and-stari-grad-added-to-world
 title: Berat and Stari Grad added to World Heritage list
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: '2011-11-18T11:29:00.000Z'
-description: ''
+description: Last train from Italy to Slovenia
 published: true
-slug: 2011-11-18-last-train-from-italy-to-slovenia
+slug: last-train-from-italy-to-slovenia
 title: Last train from Italy to Slovenia
 ---
 

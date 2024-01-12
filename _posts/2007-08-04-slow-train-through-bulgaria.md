@@ -1,8 +1,8 @@
 ---
 date: '2007-08-04T11:23:00.000+01:00'
-description: ''
+description: A slow train through Bulgaria
 published: true
-slug: 2007-08-04-slow-train-through-bulgaria
+slug: slow-train-through-bulgaria
 title: A slow train through Bulgaria
 ---
 

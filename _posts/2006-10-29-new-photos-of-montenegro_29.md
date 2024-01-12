@@ -1,8 +1,8 @@
 ---
 date: '2006-10-29T22:58:00.001Z'
-description: ''
+description: New photos of Montenegro
 published: true
-slug: 2006-10-29-new-photos-of-montenegro_29
+slug: new-photos-of-montenegro_29
 title: New photos of Montenegro
 ---
 

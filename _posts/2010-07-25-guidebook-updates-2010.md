@@ -1,8 +1,8 @@
 ---
 date: '2010-07-25T11:52:00.001+01:00'
-description: ''
+description: Guidebook updates 2010
 published: true
-slug: 2010-07-25-guidebook-updates-2010
+slug: guidebook-updates-2010
 title: Guidebook updates 2010
 ---
 

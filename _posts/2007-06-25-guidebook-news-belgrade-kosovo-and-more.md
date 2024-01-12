@@ -1,8 +1,8 @@
 ---
 date: '2007-06-25T19:20:00.001+01:00'
-description: ''
+description: 'Guidebook news: Belgrade, Kosovo, and more'
 published: true
-slug: 2007-06-25-guidebook-news-belgrade-kosovo-and-more
+slug: guidebook-news-belgrade-kosovo-and-more
 title: 'Guidebook news: Belgrade, Kosovo, and more'
 ---
 

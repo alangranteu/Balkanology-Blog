@@ -1,8 +1,8 @@
 ---
 date: '2010-02-03T20:06:00.000Z'
-description: ''
+description: 'The mountains of Bulgaria: a new hiking guide'
 published: true
-slug: 2010-02-03-mountains-of-bulgaria-new-hiking-guide
+slug: mountains-of-bulgaria-new-hiking-guide
 title: 'The mountains of Bulgaria: a new hiking guide'
 ---
 

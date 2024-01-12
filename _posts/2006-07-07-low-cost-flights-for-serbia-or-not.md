@@ -1,8 +1,8 @@
 ---
 date: '2006-07-07T19:54:00.000+01:00'
-description: ''
+description: Low cost flights for Serbia ... or not?
 published: true
-slug: 2006-07-07-low-cost-flights-for-serbia-or-not
+slug: low-cost-flights-for-serbia-or-not
 title: Low cost flights for Serbia ... or not?
 ---
 

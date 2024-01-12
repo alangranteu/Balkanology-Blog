@@ -1,8 +1,8 @@
 ---
 date: '2009-01-07T19:51:00.003Z'
-description: ''
+description: Flights from Liverpool to Dubrovnik ... and more
 published: true
-slug: 2009-01-07-flights-from-liverpool-to-dubrovnik-and
+slug: flights-from-liverpool-to-dubrovnik-and
 title: Flights from Liverpool to Dubrovnik ... and more
 ---
 

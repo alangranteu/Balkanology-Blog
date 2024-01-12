@@ -1,8 +1,8 @@
 ---
 date: '2008-05-18T16:14:00.004+01:00'
-description: ''
+description: New edition of Albania guidebook
 published: true
-slug: 2008-05-18-new-edition-of-albania-guidebook
+slug: new-edition-of-albania-guidebook
 title: New edition of Albania guidebook
 ---
 

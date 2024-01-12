@@ -1,8 +1,8 @@
 ---
 date: '2014-12-03T21:17:00.000Z'
-description: ''
+description: New international train services December 2014
 published: true
-slug: 2014-12-03-new-international-train-services
+slug: new-international-train-services
 title: New international train services December 2014
 ---
 

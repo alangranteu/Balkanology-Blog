@@ -1,8 +1,8 @@
 ---
 date: '2008-01-26T16:11:00.000Z'
-description: ''
+description: Croatia in 2008 - and a weekend in Belgrade
 published: true
-slug: 2008-01-26-croatia-in-2008-and-weekend-in-belgrade
+slug: croatia-in-2008-and-weekend-in-belgrade
 title: Croatia in 2008 - and a weekend in Belgrade
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: '2007-10-15T15:53:00.000+01:00'
-description: ''
+description: A little piece of Narnia in Slovenia
 published: true
-slug: 2007-10-15-little-piece-of-narnia-in-slovenia
+slug: little-piece-of-narnia-in-slovenia
 title: A little piece of Narnia in Slovenia
 ---
 

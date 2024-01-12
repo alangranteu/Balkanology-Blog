@@ -1,8 +1,8 @@
 ---
 date: '2012-06-25T08:00:00.000+01:00'
-description: ''
+description: No more slow trains to Pogradec
 published: true
-slug: 2012-06-25-no-more-slow-trains-to-pogradec
+slug: no-more-slow-trains-to-pogradec
 title: No more slow trains to Pogradec
 ---
 

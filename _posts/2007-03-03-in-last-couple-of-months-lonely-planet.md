@@ -1,8 +1,8 @@
 ---
 date: '2007-03-03T20:51:00.000Z'
-description: ''
+description: A roundup of new guidebooks
 published: true
-slug: 2007-03-03-in-last-couple-of-months-lonely-planet
+slug: in-last-couple-of-months-lonely-planet
 title: A roundup of new guidebooks
 ---
 

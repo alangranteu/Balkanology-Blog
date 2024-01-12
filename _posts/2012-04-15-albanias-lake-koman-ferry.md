@@ -1,8 +1,8 @@
 ---
 date: '2012-04-15T10:59:00.000+01:00'
-description: ''
+description: Albania's Lake Koman ferry
 published: true
-slug: 2012-04-15-albanias-lake-koman-ferry
+slug: albanias-lake-koman-ferry
 title: Albania's Lake Koman ferry
 ---
 

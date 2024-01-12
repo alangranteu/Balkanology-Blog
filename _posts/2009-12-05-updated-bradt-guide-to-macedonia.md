@@ -1,8 +1,8 @@
 ---
 date: '2009-12-05T00:05:00.002Z'
-description: ''
+description: Updated Bradt Guide to Macedonia
 published: true
-slug: 2009-12-05-updated-bradt-guide-to-macedonia
+slug: updated-bradt-guide-to-macedonia
 title: Updated Bradt Guide to Macedonia
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: '2014-05-04T20:16:00.000+01:00'
-description: ''
+description: Greece restores (some) international trains
 published: true
-slug: 2014-05-04-greece-restores-some-international
+slug: greece-restores-some-international
 title: Greece restores (some) international trains
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: '2007-06-26T21:55:00.000+01:00'
-description: ''
+description: Prince Charles leads the UK travel press to Transylvania
 published: true
-slug: 2007-06-26-prince-charles-leads-uk-travel-press-to
+slug: prince-charles-leads-uk-travel-press-to
 title: Prince Charles leads the UK travel press to Transylvania
 ---
 

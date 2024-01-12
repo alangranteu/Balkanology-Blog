@@ -1,8 +1,8 @@
 ---
 date: '2010-07-26T07:36:00.001+01:00'
-description: ''
+description: Turkish Airlines flies from Istanbul to Podgorica
 published: true
-slug: 2010-07-26-turkish-airlines-flies-from-istanbul-to
+slug: turkish-airlines-flies-from-istanbul-to
 title: Turkish Airlines flies from Istanbul to Podgorica
 ---
 

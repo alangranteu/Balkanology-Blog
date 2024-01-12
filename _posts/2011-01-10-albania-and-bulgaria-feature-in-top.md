@@ -1,8 +1,8 @@
 ---
 date: '2011-01-10T12:41:00.025Z'
-description: ''
+description: Albania and Bulgaria feature in top destinations for 2011
 published: true
-slug: 2011-01-10-albania-and-bulgaria-feature-in-top
+slug: albania-and-bulgaria-feature-in-top
 title: Albania and Bulgaria feature in top destinations for 2011
 ---
 

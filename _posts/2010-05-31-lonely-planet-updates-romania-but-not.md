@@ -1,8 +1,8 @@
 ---
 date: '2010-05-31T16:45:00.000+01:00'
-description: ''
+description: Lonely Planet updates Romania ... but not Moldova
 published: true
-slug: 2010-05-31-lonely-planet-updates-romania-but-not
+slug: lonely-planet-updates-romania-but-not
 title: Lonely Planet updates Romania ... but not Moldova
 ---
 

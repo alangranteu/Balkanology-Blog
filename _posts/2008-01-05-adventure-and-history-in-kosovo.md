@@ -1,8 +1,8 @@
 ---
 date: '2008-01-05T16:00:00.001Z'
-description: ''
+description: Adventure and history in Kosovo
 published: true
-slug: 2008-01-05-adventure-and-history-in-kosovo
+slug: adventure-and-history-in-kosovo
 title: Adventure and history in Kosovo
 ---
 

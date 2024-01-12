@@ -1,8 +1,8 @@
 ---
 date: '2008-12-28T14:43:00.002Z'
-description: ''
+description: Easyjet flies from London Gatwick to Dubrovnik
 published: true
-slug: 2008-12-28-easyjet-flies-from-london-gatwick-to
+slug: easyjet-flies-from-london-gatwick-to
 title: Easyjet flies from London Gatwick to Dubrovnik
 ---
 

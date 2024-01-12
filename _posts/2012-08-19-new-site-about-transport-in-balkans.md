@@ -1,8 +1,8 @@
 ---
 date: '2012-08-19T12:54:00.001+01:00'
-description: ''
+description: New site about transport in the Balkans
 published: true
-slug: 2012-08-19-new-site-about-transport-in-balkans
+slug: new-site-about-transport-in-balkans
 title: New site about transport in the Balkans
 ---
 

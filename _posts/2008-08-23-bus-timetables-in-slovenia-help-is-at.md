@@ -1,8 +1,8 @@
 ---
 date: '2008-08-23T18:58:00.002+01:00'
-description: ''
+description: 'Bus timetables in Slovenia: help is at hand'
 published: true
-slug: 2008-08-23-bus-timetables-in-slovenia-help-is-at
+slug: bus-timetables-in-slovenia-help-is-at
 title: 'Bus timetables in Slovenia: help is at hand'
 ---
 

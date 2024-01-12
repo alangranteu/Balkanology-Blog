@@ -1,8 +1,8 @@
 ---
 date: '2013-11-21T18:24:00.000Z'
-description: ''
+description: JAT becomes Air Serbia and expands its route network
 published: true
-slug: 2013-11-21-jat-becomes-air-serbia-and-expands-its
+slug: jat-becomes-air-serbia-and-expands-its
 title: JAT becomes Air Serbia and expands its route network
 ---
 

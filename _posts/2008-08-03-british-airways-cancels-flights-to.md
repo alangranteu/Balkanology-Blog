@@ -1,8 +1,8 @@
 ---
 date: '2008-08-03T15:40:00.003+01:00'
-description: ''
+description: British Airways cancels flights to Sarajevo
 published: true
-slug: 2008-08-03-british-airways-cancels-flights-to
+slug: british-airways-cancels-flights-to
 title: British Airways cancels flights to Sarajevo
 ---
 

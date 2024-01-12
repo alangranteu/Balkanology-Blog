@@ -1,8 +1,8 @@
 ---
 date: '2008-08-23T13:57:00.002+01:00'
-description: ''
+description: Veliko Turnovo
 published: true
-slug: 2008-08-23-veliko-turnovo
+slug: veliko-turnovo
 title: Veliko Turnovo
 ---
 

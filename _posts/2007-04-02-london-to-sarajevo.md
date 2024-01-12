@@ -1,8 +1,8 @@
 ---
 date: '2007-04-02T20:05:00.000+01:00'
-description: ''
+description: London to Sarajevo
 published: true
-slug: 2007-04-02-london-to-sarajevo
+slug: london-to-sarajevo
 title: London to Sarajevo
 ---
 

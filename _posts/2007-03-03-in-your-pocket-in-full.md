@@ -1,8 +1,8 @@
 ---
 date: '2007-03-03T12:22:00.000Z'
-description: ''
+description: In Your Pocket, in full
 published: true
-slug: 2007-03-03-in-your-pocket-in-full
+slug: in-your-pocket-in-full
 title: In Your Pocket, in full
 ---
 

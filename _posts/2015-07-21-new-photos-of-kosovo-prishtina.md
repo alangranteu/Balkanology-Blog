@@ -1,8 +1,8 @@
 ---
 date: '2015-07-21T18:25:00.000+01:00'
-description: ''
+description: 'New photos of Kosovo: Prishtina'
 published: true
-slug: 2015-07-21-new-photos-of-kosovo-prishtina
+slug: new-photos-of-kosovo-prishtina
 title: 'New photos of Kosovo: Prishtina'
 ---
 

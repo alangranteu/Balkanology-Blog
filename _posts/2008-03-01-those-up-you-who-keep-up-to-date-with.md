@@ -1,8 +1,8 @@
 ---
 date: '2008-03-01T12:32:00.003Z'
-description: ''
+description: Not about the Balkans
 published: true
-slug: 2008-03-01-those-up-you-who-keep-up-to-date-with
+slug: those-up-you-who-keep-up-to-date-with
 title: Not about the Balkans
 ---
 

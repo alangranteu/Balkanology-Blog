@@ -1,8 +1,8 @@
 ---
 date: '2006-06-24T14:19:00.000+01:00'
-description: ''
+description: Northern Albania on the move
 published: true
-slug: 2006-06-24-northern-albania-on-move
+slug: northern-albania-on-move
 title: Northern Albania on the move
 ---
 

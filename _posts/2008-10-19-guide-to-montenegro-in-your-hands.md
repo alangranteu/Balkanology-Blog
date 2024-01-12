@@ -1,8 +1,8 @@
 ---
 date: '2008-10-19T14:53:00.002+01:00'
-description: ''
+description: A guide to Montenegro in your hands
 published: true
-slug: 2008-10-19-guide-to-montenegro-in-your-hands
+slug: guide-to-montenegro-in-your-hands
 title: A guide to Montenegro in your hands
 ---
 

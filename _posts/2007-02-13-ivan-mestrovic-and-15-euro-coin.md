@@ -1,8 +1,8 @@
 ---
 date: '2007-02-13T21:09:00.000Z'
-description: ''
+description: Ivan Mestrovic and the 15 euro coin
 published: true
-slug: 2007-02-13-ivan-mestrovic-and-15-euro-coin
+slug: ivan-mestrovic-and-15-euro-coin
 title: Ivan Mestrovic and the 15 euro coin
 ---
 

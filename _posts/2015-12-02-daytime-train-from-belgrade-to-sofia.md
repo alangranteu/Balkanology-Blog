@@ -1,8 +1,8 @@
 ---
 date: '2015-12-02T20:52:00.000Z'
-description: ''
+description: Daytime train from Belgrade to Sofia
 published: true
-slug: 2015-12-02-daytime-train-from-belgrade-to-sofia
+slug: daytime-train-from-belgrade-to-sofia
 title: Daytime train from Belgrade to Sofia
 ---
 

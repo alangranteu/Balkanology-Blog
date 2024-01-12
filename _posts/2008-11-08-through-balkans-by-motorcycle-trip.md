@@ -1,8 +1,8 @@
 ---
 date: '2008-11-08T17:04:00.003Z'
-description: ''
+description: Through the Balkans by motorcycle - a trip report
 published: true
-slug: 2008-11-08-through-balkans-by-motorcycle-trip
+slug: through-balkans-by-motorcycle-trip
 title: Through the Balkans by motorcycle - a trip report
 ---
 

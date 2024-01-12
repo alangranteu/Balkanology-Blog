@@ -1,8 +1,8 @@
 ---
 date: '2008-05-27T21:40:00.004+01:00'
-description: ''
+description: Montenegro introduces "eco tax" on tourist cars
 published: true
-slug: 2008-05-27-montenegro-introduces-eco-tax-on
+slug: montenegro-introduces-eco-tax-on
 title: Montenegro introduces "eco tax" on tourist cars
 ---
 

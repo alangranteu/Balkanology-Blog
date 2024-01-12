@@ -1,8 +1,8 @@
 ---
 date: '2013-01-17T16:49:00.000Z'
-description: ''
+description: By train through the Rhodopes
 published: true
-slug: 2013-01-17-by-train-through-rhodopes
+slug: by-train-through-rhodopes
 title: By train through the Rhodopes
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: '2009-07-01T20:25:00.002+01:00'
-description: ''
+description: From Skopje to the sea by train
 published: true
-slug: 2009-07-01-from-skopje-to-sea-by-train
+slug: from-skopje-to-sea-by-train
 title: From Skopje to the sea by train
 ---
 

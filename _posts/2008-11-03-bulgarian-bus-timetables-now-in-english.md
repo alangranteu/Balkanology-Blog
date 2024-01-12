@@ -1,8 +1,8 @@
 ---
 date: '2008-11-03T20:12:00.002Z'
-description: ''
+description: Bulgarian bus timetables - now in English
 published: true
-slug: 2008-11-03-bulgarian-bus-timetables-now-in-english
+slug: bulgarian-bus-timetables-now-in-english
 title: Bulgarian bus timetables - now in English
 ---
 

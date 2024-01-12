@@ -1,8 +1,8 @@
 ---
 date: '2009-08-03T10:50:00.004+01:00'
-description: ''
+description: Escape from British tourists in the Balkans
 published: true
-slug: 2009-08-03-escape-from-british-tourists-in-balkans
+slug: escape-from-british-tourists-in-balkans
 title: Escape from British tourists in the Balkans
 ---
 

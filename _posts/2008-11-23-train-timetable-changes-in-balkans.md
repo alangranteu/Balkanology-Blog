@@ -1,8 +1,8 @@
 ---
 date: '2008-11-23T18:46:00.005Z'
-description: ''
+description: Train timetable changes in the Balkans - December 2008
 published: true
-slug: 2008-11-23-train-timetable-changes-in-balkans
+slug: train-timetable-changes-in-balkans
 title: Train timetable changes in the Balkans - December 2008
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: '2008-11-08T11:42:00.002Z'
-description: ''
+description: 'Belgrade: the best nightlife in Europe?'
 published: true
-slug: 2008-11-08-belgrade-best-nightlife-in-europe
+slug: belgrade-best-nightlife-in-europe
 title: 'Belgrade: the best nightlife in Europe?'
 ---
 

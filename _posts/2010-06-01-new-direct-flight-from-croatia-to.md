@@ -1,8 +1,8 @@
 ---
 date: '2010-06-01T20:32:00.001+01:00'
-description: ''
+description: New direct flight from Croatia to Greece
 published: true
-slug: 2010-06-01-new-direct-flight-from-croatia-to
+slug: new-direct-flight-from-croatia-to
 title: New direct flight from Croatia to Greece
 ---
 

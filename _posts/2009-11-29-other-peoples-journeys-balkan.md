@@ -1,8 +1,8 @@
 ---
 date: '2009-11-29T11:33:00.007Z'
-description: ''
+description: 'Other people''s journeys: Balkan travelogues 2009'
 published: true
-slug: 2009-11-29-other-peoples-journeys-balkan
+slug: other-peoples-journeys-balkan
 title: 'Other people''s journeys: Balkan travelogues 2009'
 ---
 

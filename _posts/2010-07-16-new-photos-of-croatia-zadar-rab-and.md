@@ -1,8 +1,8 @@
 ---
 date: '2010-07-16T12:01:00.000+01:00'
-description: ''
+description: 'New photos of Croatia: Zadar, Rab, and more'
 published: true
-slug: 2010-07-16-new-photos-of-croatia-zadar-rab-and
+slug: new-photos-of-croatia-zadar-rab-and
 title: 'New photos of Croatia: Zadar, Rab, and more'
 ---
 

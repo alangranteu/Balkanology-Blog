@@ -1,8 +1,8 @@
 ---
 date: '2006-03-27T21:49:00.000+01:00'
-description: ''
+description: British Airways flies from London to Albania
 published: true
-slug: 2006-03-27-british-airways-flies-from-london-to
+slug: british-airways-flies-from-london-to
 title: British Airways flies from London to Albania
 ---
 

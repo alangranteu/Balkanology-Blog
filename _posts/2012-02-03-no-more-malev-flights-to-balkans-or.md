@@ -1,8 +1,8 @@
 ---
 date: '2012-02-03T12:03:00.000Z'
-description: ''
+description: No more Malev flights to the Balkans ... or anywhere else
 published: true
-slug: 2012-02-03-no-more-malev-flights-to-balkans-or
+slug: no-more-malev-flights-to-balkans-or
 title: No more Malev flights to the Balkans ... or anywhere else
 ---
 

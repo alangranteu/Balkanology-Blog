@@ -1,8 +1,8 @@
 ---
 date: '2007-06-23T15:28:00.001+01:00'
-description: ''
+description: New photos of Macedonia
 published: true
-slug: 2007-06-23-new-photos-of-macedonia
+slug: new-photos-of-macedonia
 title: New photos of Macedonia
 ---
 

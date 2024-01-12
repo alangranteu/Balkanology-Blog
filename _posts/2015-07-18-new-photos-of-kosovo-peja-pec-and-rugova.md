@@ -1,8 +1,8 @@
 ---
 date: '2015-07-18T13:35:00.000+01:00'
-description: ''
+description: "New photos of Kosovo: Peja (Pe\u0107) and Rugova"
 published: true
-slug: 2015-07-18-new-photos-of-kosovo-peja-pec-and-rugova
+slug: new-photos-of-kosovo-peja-pec-and-rugova
 title: "New photos of Kosovo: Peja (Pe\u0107) and Rugova"
 ---
 

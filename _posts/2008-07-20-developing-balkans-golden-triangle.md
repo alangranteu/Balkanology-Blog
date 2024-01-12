@@ -1,8 +1,8 @@
 ---
 date: '2008-07-20T10:34:00.005+01:00'
-description: ''
+description: Developing the Balkans' Golden Triangle
 published: true
-slug: 2008-07-20-developing-balkans-golden-triangle
+slug: developing-balkans-golden-triangle
 title: Developing the Balkans' Golden Triangle
 ---
 

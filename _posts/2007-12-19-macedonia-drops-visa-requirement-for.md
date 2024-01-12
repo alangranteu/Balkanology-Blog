@@ -1,8 +1,8 @@
 ---
 date: '2007-12-19T20:37:00.000Z'
-description: ''
+description: Macedonia drops visa requirement for Canadian tourists
 published: true
-slug: 2007-12-19-macedonia-drops-visa-requirement-for
+slug: macedonia-drops-visa-requirement-for
 title: Macedonia drops visa requirement for Canadian tourists
 ---
 

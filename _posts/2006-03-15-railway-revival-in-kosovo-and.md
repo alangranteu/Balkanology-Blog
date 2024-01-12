@@ -1,8 +1,8 @@
 ---
 date: '2006-03-15T22:54:00.000Z'
-description: ''
+description: Railway revival in Kosovo and Macedonia
 published: true
-slug: 2006-03-15-railway-revival-in-kosovo-and
+slug: railway-revival-in-kosovo-and
 title: Railway revival in Kosovo and Macedonia
 ---
 

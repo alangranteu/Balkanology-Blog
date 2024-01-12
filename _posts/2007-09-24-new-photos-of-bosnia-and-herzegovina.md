@@ -1,8 +1,8 @@
 ---
 date: '2007-09-24T12:01:00.000+01:00'
-description: ''
+description: New photos of Bosnia and Herzegovina
 published: true
-slug: 2007-09-24-new-photos-of-bosnia-and-herzegovina
+slug: new-photos-of-bosnia-and-herzegovina
 title: New photos of Bosnia and Herzegovina
 ---
 

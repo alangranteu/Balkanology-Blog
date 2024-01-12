@@ -1,8 +1,8 @@
 ---
 date: '2010-06-03T20:03:00.008+01:00'
-description: ''
+description: Albania Minibus Schedules
 published: true
-slug: 2010-06-03-albania-minibus-schedules
+slug: albania-minibus-schedules
 title: Albania Minibus Schedules
 ---
 

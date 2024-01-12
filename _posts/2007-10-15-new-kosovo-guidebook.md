@@ -1,8 +1,8 @@
 ---
 date: '2007-10-15T18:46:00.000+01:00'
-description: ''
+description: New Kosovo guidebook
 published: true
-slug: 2007-10-15-new-kosovo-guidebook
+slug: new-kosovo-guidebook
 title: New Kosovo guidebook
 ---
 

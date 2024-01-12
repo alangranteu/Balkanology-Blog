@@ -1,8 +1,8 @@
 ---
 date: '2006-10-15T22:03:00.000+01:00'
-description: ''
+description: At last... photos of Albania
 published: true
-slug: 2006-10-15-at-last-photos-of-albania
+slug: at-last-photos-of-albania
 title: At last... photos of Albania
 ---
 

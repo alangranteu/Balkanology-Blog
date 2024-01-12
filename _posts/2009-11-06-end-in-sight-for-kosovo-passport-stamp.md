@@ -1,8 +1,8 @@
 ---
 date: '2009-11-06T19:25:00.003Z'
-description: ''
+description: An end in sight for the "Kosovo passport stamp issue"?
 published: true
-slug: 2009-11-06-end-in-sight-for-kosovo-passport-stamp
+slug: end-in-sight-for-kosovo-passport-stamp
 title: An end in sight for the "Kosovo passport stamp issue"?
 ---
 

@@ -1,8 +1,9 @@
 ---
 date: '2011-02-20T20:53:00.002Z'
-description: ''
+description: Greece suspends international train services (this time they really mean
+  it)
 published: true
-slug: 2011-02-20-greece-suspends-international-train
+slug: greece-suspends-international-train
 title: Greece suspends international train services (this time they really mean it)
 ---
 

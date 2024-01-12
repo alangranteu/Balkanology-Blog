@@ -1,8 +1,8 @@
 ---
 date: '2007-10-09T20:14:00.000+01:00'
-description: ''
+description: The tourist industry in Southeast Europe
 published: true
-slug: 2007-10-09-tourist-industry-in-southeast-europe
+slug: tourist-industry-in-southeast-europe
 title: The tourist industry in Southeast Europe
 ---
 

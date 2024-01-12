@@ -1,8 +1,8 @@
 ---
 date: '2007-02-10T15:32:00.000Z'
-description: ''
+description: Ryanair flies to Zadar
 published: true
-slug: 2007-02-10-ryanair-flies-to-zadar
+slug: ryanair-flies-to-zadar
 title: Ryanair flies to Zadar
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: '2007-07-12T19:50:00.000+01:00'
-description: ''
+description: New guide to hiking in Montenegro
 published: true
-slug: 2007-07-12-new-guide-to-hiking-in-montenegro
+slug: new-guide-to-hiking-in-montenegro
 title: New guide to hiking in Montenegro
 ---
 

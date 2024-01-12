@@ -1,8 +1,8 @@
 ---
 date: '2006-10-11T19:20:00.000+01:00'
-description: ''
+description: Back from the Balkans
 published: true
-slug: 2006-10-11-back-from-balkans
+slug: back-from-balkans
 title: Back from the Balkans
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: '2006-04-29T22:04:00.000+01:00'
-description: ''
+description: 'Dubrovnik: so good they wrote about it twice'
 published: true
-slug: 2006-04-29-dubrovnik-so-good-they-wrote-about-it
+slug: dubrovnik-so-good-they-wrote-about-it
 title: 'Dubrovnik: so good they wrote about it twice'
 ---
 

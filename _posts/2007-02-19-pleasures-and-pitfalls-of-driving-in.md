@@ -1,8 +1,8 @@
 ---
 date: '2007-02-19T20:31:00.000Z'
-description: ''
+description: The pleasures and pitfalls of driving in Bulgaria
 published: true
-slug: 2007-02-19-pleasures-and-pitfalls-of-driving-in
+slug: pleasures-and-pitfalls-of-driving-in
 title: The pleasures and pitfalls of driving in Bulgaria
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: '2009-11-16T18:16:00.002Z'
-description: ''
+description: Belgrade and Thessaloniki, party cities
 published: true
-slug: 2009-11-16-belgrade-and-thessaloniki-party-cities
+slug: belgrade-and-thessaloniki-party-cities
 title: Belgrade and Thessaloniki, party cities
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: '2006-07-07T23:03:00.000+01:00'
-description: ''
+description: Treasures of Transylvania
 published: true
-slug: 2006-07-07-treasures-of-transylvania
+slug: treasures-of-transylvania
 title: Treasures of Transylvania
 ---
 

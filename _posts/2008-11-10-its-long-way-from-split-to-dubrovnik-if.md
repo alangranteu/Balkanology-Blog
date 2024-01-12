@@ -1,8 +1,8 @@
 ---
 date: '2008-11-10T11:20:00.008Z'
-description: ''
+description: It's a long way from Split to Dubrovnik ... if you believe Google Maps
 published: true
-slug: 2008-11-10-its-long-way-from-split-to-dubrovnik-if
+slug: its-long-way-from-split-to-dubrovnik-if
 title: It's a long way from Split to Dubrovnik ... if you believe Google Maps
 ---
 

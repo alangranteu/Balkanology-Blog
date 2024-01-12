@@ -1,8 +1,8 @@
 ---
 date: '2012-05-13T13:53:00.002+01:00'
-description: ''
+description: A honeymoon on rails in the Western Balkans
 published: true
-slug: 2012-05-13-honeymoon-on-rails-in-western-balkans
+slug: honeymoon-on-rails-in-western-balkans
 title: A honeymoon on rails in the Western Balkans
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: '2010-02-02T20:25:00.001Z'
-description: ''
+description: A rare Macedonian mention
 published: true
-slug: 2010-02-02-rare-macedonian-mention
+slug: rare-macedonian-mention
 title: A rare Macedonian mention
 ---
 

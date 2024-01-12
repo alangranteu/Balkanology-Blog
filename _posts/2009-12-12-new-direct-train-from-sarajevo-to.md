@@ -1,8 +1,8 @@
 ---
 date: '2009-12-12T16:52:00.002Z'
-description: ''
+description: New direct train from Sarajevo to Belgrade
 published: true
-slug: 2009-12-12-new-direct-train-from-sarajevo-to
+slug: new-direct-train-from-sarajevo-to
 title: New direct train from Sarajevo to Belgrade
 ---
 

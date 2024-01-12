@@ -1,8 +1,8 @@
 ---
 date: '2007-02-07T22:52:00.000Z'
-description: ''
+description: 'By popular demand: How to Travel from Croatia to Greece'
 published: true
-slug: 2007-02-07-by-popular-demand-how-to-travel-from
+slug: by-popular-demand-how-to-travel-from
 title: 'By popular demand: How to Travel from Croatia to Greece'
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: '2007-09-14T16:59:00.000+01:00'
-description: ''
+description: 'Palin''s New Europe: series begins this Sunday'
 published: true
-slug: 2007-09-14-palins-new-europe-series-begins-this
+slug: palins-new-europe-series-begins-this
 title: 'Palin''s New Europe: series begins this Sunday'
 ---
 

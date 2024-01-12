@@ -1,8 +1,8 @@
 ---
 date: '2007-04-05T22:40:00.000+01:00'
-description: ''
+description: Bucharest Monopoly
 published: true
-slug: 2007-04-05-bucharest-monopoly
+slug: bucharest-monopoly
 title: Bucharest Monopoly
 ---
 

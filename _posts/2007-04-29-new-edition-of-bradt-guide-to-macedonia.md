@@ -1,8 +1,8 @@
 ---
 date: '2007-04-29T20:07:00.000+01:00'
-description: ''
+description: New edition of the Bradt Guide to Macedonia
 published: true
-slug: 2007-04-29-new-edition-of-bradt-guide-to-macedonia
+slug: new-edition-of-bradt-guide-to-macedonia
 title: New edition of the Bradt Guide to Macedonia
 ---
 

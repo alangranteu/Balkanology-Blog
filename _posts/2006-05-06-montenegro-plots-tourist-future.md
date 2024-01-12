@@ -1,8 +1,8 @@
 ---
 date: '2006-05-06T11:39:00.000+01:00'
-description: ''
+description: Montenegro plots a tourist future without little old ladies
 published: true
-slug: 2006-05-06-montenegro-plots-tourist-future
+slug: montenegro-plots-tourist-future
 title: Montenegro plots a tourist future without little old ladies
 ---
 

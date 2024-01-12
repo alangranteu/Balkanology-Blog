@@ -1,8 +1,8 @@
 ---
 date: '2006-05-14T11:58:00.000+01:00'
-description: ''
+description: No escape from the Count in Transylvania
 published: true
-slug: 2006-05-14-no-escape-from-count-in-transylvania
+slug: no-escape-from-count-in-transylvania
 title: No escape from the Count in Transylvania
 ---
 

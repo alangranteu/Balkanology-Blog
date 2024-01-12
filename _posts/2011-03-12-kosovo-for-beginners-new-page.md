@@ -1,8 +1,8 @@
 ---
 date: '2011-03-12T20:26:00.000Z'
-description: ''
+description: Kosovo for Beginners - new page
 published: true
-slug: 2011-03-12-kosovo-for-beginners-new-page
+slug: kosovo-for-beginners-new-page
 title: Kosovo for Beginners - new page
 ---
 

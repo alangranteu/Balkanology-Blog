@@ -1,8 +1,8 @@
 ---
 date: '2006-06-29T20:24:00.000+01:00'
-description: ''
+description: New flights to Romania with Wizzair
 published: true
-slug: 2006-06-29-new-flights-to-romania-with-wizzair
+slug: new-flights-to-romania-with-wizzair
 title: New flights to Romania with Wizzair
 ---
 

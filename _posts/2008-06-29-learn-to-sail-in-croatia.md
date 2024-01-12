@@ -1,8 +1,8 @@
 ---
 date: '2008-06-29T15:04:00.002+01:00'
-description: ''
+description: Learn to sail in Croatia
 published: true
-slug: 2008-06-29-learn-to-sail-in-croatia
+slug: learn-to-sail-in-croatia
 title: Learn to sail in Croatia
 ---
 

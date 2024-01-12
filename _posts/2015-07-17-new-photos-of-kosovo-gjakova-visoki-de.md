@@ -1,8 +1,8 @@
 ---
 date: '2015-07-17T11:56:00.001+01:00'
-description: ''
+description: 'New photos of Kosovo: Gjakova, Visoki De&#269;ani, Isniq'
 published: true
-slug: 2015-07-17-new-photos-of-kosovo-gjakova-visoki-de
+slug: new-photos-of-kosovo-gjakova-visoki-de
 title: 'New photos of Kosovo: Gjakova, Visoki De&#269;ani, Isniq'
 ---
 

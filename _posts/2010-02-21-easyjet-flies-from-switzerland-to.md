@@ -1,8 +1,8 @@
 ---
 date: '2010-02-21T21:42:00.000Z'
-description: ''
+description: Easyjet flies from Switzerland to Kosovo
 published: true
-slug: 2010-02-21-easyjet-flies-from-switzerland-to
+slug: easyjet-flies-from-switzerland-to
 title: Easyjet flies from Switzerland to Kosovo
 ---
 

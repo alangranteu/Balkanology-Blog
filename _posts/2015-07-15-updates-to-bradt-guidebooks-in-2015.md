@@ -1,8 +1,8 @@
 ---
 date: '2015-07-15T18:26:00.000+01:00'
-description: ''
+description: Updates to Bradt guidebooks in 2015
 published: true
-slug: 2015-07-15-updates-to-bradt-guidebooks-in-2015
+slug: updates-to-bradt-guidebooks-in-2015
 title: Updates to Bradt guidebooks in 2015
 ---
 

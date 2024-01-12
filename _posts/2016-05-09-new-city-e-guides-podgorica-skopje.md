@@ -1,8 +1,8 @@
 ---
 date: '2016-05-09T11:46:00.000+01:00'
-description: ''
+description: 'New city e-guides: Podgorica, Skopje, Tirana'
 published: true
-slug: 2016-05-09-new-city-e-guides-podgorica-skopje
+slug: new-city-e-guides-podgorica-skopje
 title: 'New city e-guides: Podgorica, Skopje, Tirana'
 ---
 

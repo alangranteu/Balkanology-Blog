@@ -1,8 +1,8 @@
 ---
 date: '2008-06-16T12:28:00.004+01:00'
-description: ''
+description: Southeast Europe is a low-crime region, says the UN
 published: true
-slug: 2008-06-16-southeast-europe-is-low-crime-region
+slug: southeast-europe-is-low-crime-region
 title: Southeast Europe is a low-crime region, says the UN
 ---
 

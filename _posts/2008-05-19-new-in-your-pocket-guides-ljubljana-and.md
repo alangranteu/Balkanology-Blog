@@ -1,8 +1,8 @@
 ---
 date: '2008-05-19T16:39:00.003+01:00'
-description: ''
+description: 'New In Your Pocket guides: Ljubljana and Belgrade'
 published: true
-slug: 2008-05-19-new-in-your-pocket-guides-ljubljana-and
+slug: new-in-your-pocket-guides-ljubljana-and
 title: 'New In Your Pocket guides: Ljubljana and Belgrade'
 ---
 

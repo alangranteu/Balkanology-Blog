@@ -1,8 +1,8 @@
 ---
 date: '2008-06-15T11:31:00.002+01:00'
-description: ''
+description: A night in Albania
 published: true
-slug: 2008-06-15-night-in-albania
+slug: night-in-albania
 title: A night in Albania
 ---
 

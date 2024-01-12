@@ -1,8 +1,8 @@
 ---
 date: '2007-03-19T22:38:00.000Z'
-description: ''
+description: At last ... Belgrade gets its own page
 published: true
-slug: 2007-03-19-at-last-belgrade-gets-its-own-page
+slug: at-last-belgrade-gets-its-own-page
 title: At last ... Belgrade gets its own page
 ---
 

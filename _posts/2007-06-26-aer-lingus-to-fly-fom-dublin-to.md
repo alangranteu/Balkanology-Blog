@@ -1,8 +1,8 @@
 ---
 date: '2007-06-26T19:27:00.001+01:00'
-description: ''
+description: Aer Lingus to fly fom Dublin to Bucharest
 published: true
-slug: 2007-06-26-aer-lingus-to-fly-fom-dublin-to
+slug: aer-lingus-to-fly-fom-dublin-to
 title: Aer Lingus to fly fom Dublin to Bucharest
 ---
 

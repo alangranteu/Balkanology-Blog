@@ -1,8 +1,8 @@
 ---
 date: '2007-11-03T10:46:00.000Z'
-description: ''
+description: Prince Charles strikes again in Transylvania
 published: true
-slug: 2007-11-03-prince-charles-strikes-again-in
+slug: prince-charles-strikes-again-in
 title: Prince Charles strikes again in Transylvania
 ---
 

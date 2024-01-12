@@ -1,8 +1,8 @@
 ---
 date: '2011-01-16T12:43:00.001Z'
-description: ''
+description: More about Montenegro in the travel pages
 published: true
-slug: 2011-01-16-more-about-montenegro-in-travel-pages
+slug: more-about-montenegro-in-travel-pages
 title: More about Montenegro in the travel pages
 ---
 

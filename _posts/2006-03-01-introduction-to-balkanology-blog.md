@@ -1,8 +1,8 @@
 ---
 date: '2006-03-01T13:35:00.000Z'
-description: ''
+description: An Introduction to the Balkanology Blog
 published: true
-slug: 2006-03-01-introduction-to-balkanology-blog
+slug: introduction-to-balkanology-blog
 title: An Introduction to the Balkanology Blog
 ---
 

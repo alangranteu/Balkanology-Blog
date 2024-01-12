@@ -1,8 +1,8 @@
 ---
 date: '2006-08-10T22:27:00.000+01:00'
-description: ''
+description: On the way to Albania... and beyond
 published: true
-slug: 2006-08-10-on-way-to-albania-and-beyond
+slug: on-way-to-albania-and-beyond
 title: On the way to Albania... and beyond
 ---
 

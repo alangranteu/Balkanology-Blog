@@ -1,8 +1,8 @@
 ---
 date: '2006-07-02T20:14:00.000+01:00'
-description: ''
+description: Thinking about Thessaloniki, musing about Meteora
 published: true
-slug: 2006-07-02-thinking-about-thessaloniki-musing
+slug: thinking-about-thessaloniki-musing
 title: Thinking about Thessaloniki, musing about Meteora
 ---
 

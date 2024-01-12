@@ -1,8 +1,8 @@
 ---
 date: '2006-11-05T18:15:00.000Z'
-description: ''
+description: Serbia in Pictures
 published: true
-slug: 2006-11-05-serbia-in-pictures
+slug: serbia-in-pictures
 title: Serbia in Pictures
 ---
 

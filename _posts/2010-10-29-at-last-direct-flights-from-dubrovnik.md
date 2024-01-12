@@ -1,8 +1,8 @@
 ---
 date: '2010-10-29T14:40:00.001+01:00'
-description: ''
+description: At last, direct flights from Dubrovnik to Athens
 published: true
-slug: 2010-10-29-at-last-direct-flights-from-dubrovnik
+slug: at-last-direct-flights-from-dubrovnik
 title: At last, direct flights from Dubrovnik to Athens
 ---
 

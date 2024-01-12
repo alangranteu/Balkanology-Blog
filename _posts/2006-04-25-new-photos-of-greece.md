@@ -1,8 +1,8 @@
 ---
 date: '2006-04-25T22:44:00.000+01:00'
-description: ''
+description: New photos of Greece
 published: true
-slug: 2006-04-25-new-photos-of-greece
+slug: new-photos-of-greece
 title: New photos of Greece
 ---
 

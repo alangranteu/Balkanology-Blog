@@ -1,8 +1,8 @@
 ---
 date: '2008-04-21T20:38:00.005+01:00'
-description: ''
+description: Southeast Europe, motorbiking paradise?
 published: true
-slug: 2008-04-21-southeast-europe-motorbiking-paradise
+slug: southeast-europe-motorbiking-paradise
 title: Southeast Europe, motorbiking paradise?
 ---
 
