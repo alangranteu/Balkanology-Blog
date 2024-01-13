@@ -34,7 +34,7 @@
           </div>
           <h2>{{ page.title}} </h2>
           {% if page.date %}
-            <p>{{ page.date | date_to_long_string }}</p>
+            <p class="dateinpost">{{ page.date | date_to_long_string }}</p>
           {% endif %}
           {{ content }}
 

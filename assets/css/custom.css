@@ -121,6 +121,10 @@ nav ul a.current {
 	color: #FFFFFF; 
 }
 
+p.dateinpost {
+   font-style: italic;
+}
+
 div.topmenu { 
     font-size: 0.9em;
 	font-weight: bold;
