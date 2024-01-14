@@ -1,7 +1,7 @@
-plugins:
+# plugins:
  # - jekyll-feed
  # - jekyll-sitemap
-  - jekyll-relative-links
+ # - jekyll-relative-links
  # - jekyll-seo-tag
 
 # SEO Stuff
