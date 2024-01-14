@@ -1,7 +1,9 @@
 ---
 date: '2006-10-11T19:20:00.000+01:00'
 description: Back from the Balkans
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/back-from-balkans/
 slug: back-from-balkans
 title: Back from the Balkans
 ---

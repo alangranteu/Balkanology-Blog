@@ -1,7 +1,9 @@
 ---
 date: '2012-04-16T19:00:00.000+01:00'
 description: New edition of the Bradt Guide to Albania
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-edition-of-bradt-guide-to-albania/
 slug: new-edition-of-bradt-guide-to-albania
 title: New edition of the Bradt Guide to Albania
 ---

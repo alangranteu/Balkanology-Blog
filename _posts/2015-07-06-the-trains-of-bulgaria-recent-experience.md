@@ -1,7 +1,9 @@
 ---
 date: '2015-07-06T12:45:00.000+01:00'
 description: The trains of Bulgaria - a recent experience
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/the-trains-of-bulgaria-recent-experience/
 slug: the-trains-of-bulgaria-recent-experience
 title: The trains of Bulgaria - a recent experience
 ---

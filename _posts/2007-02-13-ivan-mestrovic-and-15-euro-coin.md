@@ -1,7 +1,9 @@
 ---
 date: '2007-02-13T21:09:00.000Z'
 description: Ivan Mestrovic and the 15 euro coin
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/ivan-mestrovic-and-15-euro-coin/
 slug: ivan-mestrovic-and-15-euro-coin
 title: Ivan Mestrovic and the 15 euro coin
 ---

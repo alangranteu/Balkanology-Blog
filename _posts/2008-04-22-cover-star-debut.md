@@ -1,7 +1,9 @@
 ---
 date: '2008-04-22T21:27:00.004+01:00'
 description: Cover star debut
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/cover-star-debut/
 slug: cover-star-debut
 title: Cover star debut
 ---

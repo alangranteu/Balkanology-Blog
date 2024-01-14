@@ -1,7 +1,9 @@
 ---
 date: '2008-05-24T20:17:00.004+01:00'
 description: The Balkans in the travel pages - Spring 2008
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/balkans-in-travel-pages-spring-2008/
 slug: balkans-in-travel-pages-spring-2008
 title: The Balkans in the travel pages - Spring 2008
 ---

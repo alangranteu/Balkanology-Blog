@@ -2,7 +2,9 @@
 date: '2013-01-18T21:50:00.000Z'
 description: Cuts to international rail services in Croatia, Bosnia, and neighbouring
   countries
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/cuts-to-international-rail-services-in/
 slug: cuts-to-international-rail-services-in
 title: Cuts to international rail services in Croatia, Bosnia, and neighbouring countries
 ---

@@ -1,7 +1,9 @@
 ---
 date: '2008-08-23T18:58:00.002+01:00'
 description: 'Bus timetables in Slovenia: help is at hand'
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/bus-timetables-in-slovenia-help-is-at/
 slug: bus-timetables-in-slovenia-help-is-at
 title: 'Bus timetables in Slovenia: help is at hand'
 ---

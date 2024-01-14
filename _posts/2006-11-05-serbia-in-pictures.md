@@ -1,7 +1,9 @@
 ---
 date: '2006-11-05T18:15:00.000Z'
 description: Serbia in Pictures
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/serbia-in-pictures/
 slug: serbia-in-pictures
 title: Serbia in Pictures
 ---

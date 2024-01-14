@@ -1,7 +1,9 @@
 ---
 date: '2008-11-03T20:12:00.002Z'
 description: Bulgarian bus timetables - now in English
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/bulgarian-bus-timetables-now-in-english/
 slug: bulgarian-bus-timetables-now-in-english
 title: Bulgarian bus timetables - now in English
 ---

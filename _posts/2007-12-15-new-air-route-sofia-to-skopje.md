@@ -1,7 +1,9 @@
 ---
 date: '2007-12-15T20:32:00.000Z'
 description: 'New air route: Sofia to Skopje'
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-air-route-sofia-to-skopje/
 slug: new-air-route-sofia-to-skopje
 title: 'New air route: Sofia to Skopje'
 ---

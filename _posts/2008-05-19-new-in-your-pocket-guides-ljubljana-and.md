@@ -1,7 +1,9 @@
 ---
 date: '2008-05-19T16:39:00.003+01:00'
 description: 'New In Your Pocket guides: Ljubljana and Belgrade'
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-in-your-pocket-guides-ljubljana-and/
 slug: new-in-your-pocket-guides-ljubljana-and
 title: 'New In Your Pocket guides: Ljubljana and Belgrade'
 ---

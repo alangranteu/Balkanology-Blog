@@ -1,7 +1,9 @@
 ---
 date: '2006-03-27T21:49:00.000+01:00'
 description: British Airways flies from London to Albania
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/british-airways-flies-from-london-to/
 slug: british-airways-flies-from-london-to
 title: British Airways flies from London to Albania
 ---

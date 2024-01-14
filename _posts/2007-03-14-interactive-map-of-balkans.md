@@ -1,7 +1,9 @@
 ---
 date: '2007-03-14T19:26:00.000Z'
 description: An interactive map of the Balkans
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/interactive-map-of-balkans/
 slug: interactive-map-of-balkans
 title: An interactive map of the Balkans
 ---

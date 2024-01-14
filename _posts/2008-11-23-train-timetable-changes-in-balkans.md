@@ -1,7 +1,9 @@
 ---
 date: '2008-11-23T18:46:00.005Z'
 description: Train timetable changes in the Balkans - December 2008
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/train-timetable-changes-in-balkans/
 slug: train-timetable-changes-in-balkans
 title: Train timetable changes in the Balkans - December 2008
 ---

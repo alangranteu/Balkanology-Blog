@@ -1,7 +1,9 @@
 ---
 date: '2015-07-23T17:39:00.002+01:00'
 description: 'New photos of Kosovo: Prizren'
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-photos-of-kosovo-prizren/
 slug: new-photos-of-kosovo-prizren
 title: 'New photos of Kosovo: Prizren'
 ---

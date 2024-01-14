@@ -1,7 +1,9 @@
 ---
 date: '2008-05-24T13:37:00.002+01:00'
 description: Macedonia drops visa requirement for Australian visitors
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/macedonia-drops-visa-requirement-for/
 slug: macedonia-drops-visa-requirement-for
 title: Macedonia drops visa requirement for Australian visitors
 ---

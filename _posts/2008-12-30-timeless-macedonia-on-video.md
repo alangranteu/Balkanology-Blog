@@ -1,7 +1,9 @@
 ---
 date: '2008-12-30T15:47:00.001Z'
 description: Timeless Macedonia on video
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/timeless-macedonia-on-video/
 slug: timeless-macedonia-on-video
 title: Timeless Macedonia on video
 ---

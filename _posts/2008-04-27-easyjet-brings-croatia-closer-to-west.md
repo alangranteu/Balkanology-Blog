@@ -1,7 +1,9 @@
 ---
 date: '2008-04-27T21:07:00.003+01:00'
 description: Easyjet brings Croatia closer to the West Country
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/easyjet-brings-croatia-closer-to-west/
 slug: easyjet-brings-croatia-closer-to-west
 title: Easyjet brings Croatia closer to the West Country
 ---

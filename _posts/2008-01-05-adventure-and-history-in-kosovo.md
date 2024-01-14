@@ -1,7 +1,9 @@
 ---
 date: '2008-01-05T16:00:00.001Z'
 description: Adventure and history in Kosovo
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/adventure-and-history-in-kosovo/
 slug: adventure-and-history-in-kosovo
 title: Adventure and history in Kosovo
 ---

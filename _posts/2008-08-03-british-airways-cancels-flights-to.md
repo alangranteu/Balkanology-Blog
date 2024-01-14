@@ -1,7 +1,9 @@
 ---
 date: '2008-08-03T15:40:00.003+01:00'
 description: British Airways cancels flights to Sarajevo
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/british-airways-cancels-flights-to/
 slug: british-airways-cancels-flights-to
 title: British Airways cancels flights to Sarajevo
 ---

@@ -1,7 +1,9 @@
 ---
 date: '2008-05-18T16:14:00.004+01:00'
 description: New edition of Albania guidebook
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-edition-of-albania-guidebook/
 slug: new-edition-of-albania-guidebook
 title: New edition of Albania guidebook
 ---

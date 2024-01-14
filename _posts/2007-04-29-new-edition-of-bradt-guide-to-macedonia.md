@@ -1,7 +1,9 @@
 ---
 date: '2007-04-29T20:07:00.000+01:00'
 description: New edition of the Bradt Guide to Macedonia
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-edition-of-bradt-guide-to-macedonia/
 slug: new-edition-of-bradt-guide-to-macedonia
 title: New edition of the Bradt Guide to Macedonia
 ---

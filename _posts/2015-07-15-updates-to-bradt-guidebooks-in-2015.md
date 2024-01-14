@@ -1,7 +1,9 @@
 ---
 date: '2015-07-15T18:26:00.000+01:00'
 description: Updates to Bradt guidebooks in 2015
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/updates-to-bradt-guidebooks-in-2015/
 slug: updates-to-bradt-guidebooks-in-2015
 title: Updates to Bradt guidebooks in 2015
 ---

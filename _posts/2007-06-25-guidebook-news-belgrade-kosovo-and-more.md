@@ -1,7 +1,9 @@
 ---
 date: '2007-06-25T19:20:00.001+01:00'
 description: 'Guidebook news: Belgrade, Kosovo, and more'
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/guidebook-news-belgrade-kosovo-and-more/
 slug: guidebook-news-belgrade-kosovo-and-more
 title: 'Guidebook news: Belgrade, Kosovo, and more'
 ---

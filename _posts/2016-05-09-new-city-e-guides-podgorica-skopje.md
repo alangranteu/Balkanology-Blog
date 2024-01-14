@@ -1,7 +1,9 @@
 ---
 date: '2016-05-09T11:46:00.000+01:00'
 description: 'New city e-guides: Podgorica, Skopje, Tirana'
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-city-e-guides-podgorica-skopje/
 slug: new-city-e-guides-podgorica-skopje
 title: 'New city e-guides: Podgorica, Skopje, Tirana'
 ---

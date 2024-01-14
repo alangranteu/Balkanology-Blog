@@ -2,7 +2,9 @@
 date: '2011-02-20T20:53:00.002Z'
 description: Greece suspends international train services (this time they really mean
   it)
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/greece-suspends-international-train/
 slug: greece-suspends-international-train
 title: Greece suspends international train services (this time they really mean it)
 ---

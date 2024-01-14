@@ -1,7 +1,9 @@
 ---
 date: '2007-06-30T12:50:00.000+01:00'
 description: Bridge on the Drina added to UNESCO World Heritage List
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/bridge-on-drina-added-to-unesco-world/
 slug: bridge-on-drina-added-to-unesco-world
 title: Bridge on the Drina added to UNESCO World Heritage List
 ---

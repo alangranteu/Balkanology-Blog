@@ -1,7 +1,9 @@
 ---
 date: '2010-02-02T20:25:00.001Z'
 description: A rare Macedonian mention
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/rare-macedonian-mention/
 slug: rare-macedonian-mention
 title: A rare Macedonian mention
 ---

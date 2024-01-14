@@ -1,7 +1,9 @@
 ---
 date: '2012-08-19T12:54:00.001+01:00'
 description: New site about transport in the Balkans
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-site-about-transport-in-balkans/
 slug: new-site-about-transport-in-balkans
 title: New site about transport in the Balkans
 ---

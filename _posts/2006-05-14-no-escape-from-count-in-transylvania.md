@@ -1,7 +1,9 @@
 ---
 date: '2006-05-14T11:58:00.000+01:00'
 description: No escape from the Count in Transylvania
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/no-escape-from-count-in-transylvania/
 slug: no-escape-from-count-in-transylvania
 title: No escape from the Count in Transylvania
 ---

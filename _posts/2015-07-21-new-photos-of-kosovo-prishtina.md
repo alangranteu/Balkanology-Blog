@@ -1,7 +1,9 @@
 ---
 date: '2015-07-21T18:25:00.000+01:00'
 description: 'New photos of Kosovo: Prishtina'
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-photos-of-kosovo-prishtina/
 slug: new-photos-of-kosovo-prishtina
 title: 'New photos of Kosovo: Prishtina'
 ---

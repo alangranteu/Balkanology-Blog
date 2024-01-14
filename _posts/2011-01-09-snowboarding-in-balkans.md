@@ -1,7 +1,9 @@
 ---
 date: '2011-01-09T18:55:00.000Z'
 description: Snowboarding in the Balkans
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/snowboarding-in-balkans/
 slug: snowboarding-in-balkans
 title: Snowboarding in the Balkans
 ---

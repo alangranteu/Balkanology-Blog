@@ -1,7 +1,9 @@
 ---
 date: '2011-02-20T20:17:00.000Z'
 description: Wizzair flies from London to Skopje
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/wizzair-flies-from-london-to-skopje/
 slug: wizzair-flies-from-london-to-skopje
 title: Wizzair flies from London to Skopje
 ---

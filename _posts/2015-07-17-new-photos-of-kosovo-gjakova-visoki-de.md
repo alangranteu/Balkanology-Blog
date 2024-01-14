@@ -1,7 +1,9 @@
 ---
 date: '2015-07-17T11:56:00.001+01:00'
 description: 'New photos of Kosovo: Gjakova, Visoki De&#269;ani, Isniq'
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-photos-of-kosovo-gjakova-visoki-de/
 slug: new-photos-of-kosovo-gjakova-visoki-de
 title: 'New photos of Kosovo: Gjakova, Visoki De&#269;ani, Isniq'
 ---

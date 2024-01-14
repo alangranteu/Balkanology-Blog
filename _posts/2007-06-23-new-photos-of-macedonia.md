@@ -1,7 +1,9 @@
 ---
 date: '2007-06-23T15:28:00.001+01:00'
 description: New photos of Macedonia
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-photos-of-macedonia/
 slug: new-photos-of-macedonia
 title: New photos of Macedonia
 ---

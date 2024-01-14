@@ -1,7 +1,9 @@
 ---
 date: '2006-03-05T21:40:00.000Z'
 description: Lonely Planet publishes Western Balkans Guide
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/lonely-planet-publishes-western/
 slug: lonely-planet-publishes-western
 title: Lonely Planet publishes Western Balkans Guide
 ---

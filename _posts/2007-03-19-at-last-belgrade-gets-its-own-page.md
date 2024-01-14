@@ -1,7 +1,9 @@
 ---
 date: '2007-03-19T22:38:00.000Z'
 description: At last ... Belgrade gets its own page
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/at-last-belgrade-gets-its-own-page/
 slug: at-last-belgrade-gets-its-own-page
 title: At last ... Belgrade gets its own page
 ---

@@ -1,7 +1,9 @@
 ---
 date: '2007-06-14T19:02:00.000+01:00'
 description: More flights from the UK to Romania
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/more-flights-from-uk-to-romania/
 slug: more-flights-from-uk-to-romania
 title: More flights from the UK to Romania
 ---

@@ -1,7 +1,9 @@
 ---
 date: '2006-06-24T14:19:00.000+01:00'
 description: Northern Albania on the move
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/northern-albania-on-move/
 slug: northern-albania-on-move
 title: Northern Albania on the move
 ---

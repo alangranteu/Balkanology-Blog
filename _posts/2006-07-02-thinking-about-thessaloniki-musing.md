@@ -1,7 +1,9 @@
 ---
 date: '2006-07-02T20:14:00.000+01:00'
 description: Thinking about Thessaloniki, musing about Meteora
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/thinking-about-thessaloniki-musing/
 slug: thinking-about-thessaloniki-musing
 title: Thinking about Thessaloniki, musing about Meteora
 ---

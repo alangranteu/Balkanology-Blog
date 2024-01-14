@@ -1,7 +1,9 @@
 ---
 date: '2009-02-19T21:06:00.002Z'
 description: Rare snow in Dalmatia
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/rare-snow-in-dalmatia/
 slug: rare-snow-in-dalmatia
 title: Rare snow in Dalmatia
 ---

@@ -1,7 +1,9 @@
 ---
 date: '2006-03-05T22:32:00.000Z'
 description: A new image for Bosnian Tourism
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-image-for-bosnian-tourism/
 slug: new-image-for-bosnian-tourism
 title: A new image for Bosnian Tourism
 ---

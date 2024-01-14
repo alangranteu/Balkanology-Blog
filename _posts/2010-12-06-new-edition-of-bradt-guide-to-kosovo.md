@@ -1,7 +1,9 @@
 ---
 date: '2010-12-06T21:24:00.000Z'
 description: New edition of the Bradt Guide to Kosovo
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-edition-of-bradt-guide-to-kosovo/
 slug: new-edition-of-bradt-guide-to-kosovo
 title: New edition of the Bradt Guide to Kosovo
 ---

@@ -1,7 +1,9 @@
 ---
 date: '2007-10-09T20:14:00.000+01:00'
 description: The tourist industry in Southeast Europe
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/tourist-industry-in-southeast-europe/
 slug: tourist-industry-in-southeast-europe
 title: The tourist industry in Southeast Europe
 ---

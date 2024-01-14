@@ -1,7 +1,9 @@
 ---
 date: '2006-03-01T13:35:00.000Z'
 description: An Introduction to the Balkanology Blog
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/introduction-to-balkanology-blog/
 slug: introduction-to-balkanology-blog
 title: An Introduction to the Balkanology Blog
 ---

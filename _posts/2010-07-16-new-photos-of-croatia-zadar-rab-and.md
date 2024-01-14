@@ -1,7 +1,9 @@
 ---
 date: '2010-07-16T12:01:00.000+01:00'
 description: 'New photos of Croatia: Zadar, Rab, and more'
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-photos-of-croatia-zadar-rab-and/
 slug: new-photos-of-croatia-zadar-rab-and
 title: 'New photos of Croatia: Zadar, Rab, and more'
 ---

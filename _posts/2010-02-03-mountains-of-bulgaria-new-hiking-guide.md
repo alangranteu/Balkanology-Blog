@@ -1,7 +1,9 @@
 ---
 date: '2010-02-03T20:06:00.000Z'
 description: 'The mountains of Bulgaria: a new hiking guide'
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/mountains-of-bulgaria-new-hiking-guide/
 slug: mountains-of-bulgaria-new-hiking-guide
 title: 'The mountains of Bulgaria: a new hiking guide'
 ---

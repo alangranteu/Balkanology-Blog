@@ -1,7 +1,9 @@
 ---
 date: '2011-03-12T20:26:00.000Z'
 description: Kosovo for Beginners - new page
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/kosovo-for-beginners-new-page/
 slug: kosovo-for-beginners-new-page
 title: Kosovo for Beginners - new page
 ---

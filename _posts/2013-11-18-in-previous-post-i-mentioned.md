@@ -1,7 +1,9 @@
 ---
 date: '2013-11-18T19:00:00.000Z'
 description: BalkanViator plans for online bus tickets
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/in-previous-post-i-mentioned/
 slug: in-previous-post-i-mentioned
 title: BalkanViator plans for online bus tickets
 ---

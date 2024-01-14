@@ -1,7 +1,9 @@
 ---
 date: '2006-10-15T22:03:00.000+01:00'
 description: At last... photos of Albania
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/at-last-photos-of-albania/
 slug: at-last-photos-of-albania
 title: At last... photos of Albania
 ---

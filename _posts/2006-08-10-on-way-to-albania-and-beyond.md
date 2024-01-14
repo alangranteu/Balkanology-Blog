@@ -1,7 +1,9 @@
 ---
 date: '2006-08-10T22:27:00.000+01:00'
 description: On the way to Albania... and beyond
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/on-way-to-albania-and-beyond/
 slug: on-way-to-albania-and-beyond
 title: On the way to Albania... and beyond
 ---

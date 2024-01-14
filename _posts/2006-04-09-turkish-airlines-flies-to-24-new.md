@@ -1,7 +1,9 @@
 ---
 date: '2006-04-09T22:19:00.000+01:00'
 description: Turkish Airlines flies to 24 new destinations ... including Dublin
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/turkish-airlines-flies-to-24-new/
 slug: turkish-airlines-flies-to-24-new
 title: Turkish Airlines flies to 24 new destinations ... including Dublin
 ---

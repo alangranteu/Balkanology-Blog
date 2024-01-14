@@ -1,7 +1,9 @@
 ---
 date: '2007-06-26T21:55:00.000+01:00'
 description: Prince Charles leads the UK travel press to Transylvania
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/prince-charles-leads-uk-travel-press-to/
 slug: prince-charles-leads-uk-travel-press-to
 title: Prince Charles leads the UK travel press to Transylvania
 ---

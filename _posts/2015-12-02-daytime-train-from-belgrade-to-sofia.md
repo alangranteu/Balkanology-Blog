@@ -1,7 +1,9 @@
 ---
 date: '2015-12-02T20:52:00.000Z'
 description: Daytime train from Belgrade to Sofia
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/daytime-train-from-belgrade-to-sofia/
 slug: daytime-train-from-belgrade-to-sofia
 title: Daytime train from Belgrade to Sofia
 ---

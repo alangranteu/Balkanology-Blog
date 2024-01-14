@@ -1,7 +1,9 @@
 ---
 date: '2009-11-29T11:33:00.007Z'
 description: 'Other people''s journeys: Balkan travelogues 2009'
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/other-peoples-journeys-balkan/
 slug: other-peoples-journeys-balkan
 title: 'Other people''s journeys: Balkan travelogues 2009'
 ---

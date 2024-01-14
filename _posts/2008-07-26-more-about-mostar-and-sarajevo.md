@@ -1,7 +1,9 @@
 ---
 date: '2008-07-26T17:43:00.004+01:00'
 description: More about Mostar and Sarajevo
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/more-about-mostar-and-sarajevo/
 slug: more-about-mostar-and-sarajevo
 title: More about Mostar and Sarajevo
 ---

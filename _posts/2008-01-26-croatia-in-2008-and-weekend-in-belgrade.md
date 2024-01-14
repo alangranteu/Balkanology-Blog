@@ -1,7 +1,9 @@
 ---
 date: '2008-01-26T16:11:00.000Z'
 description: Croatia in 2008 - and a weekend in Belgrade
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/croatia-in-2008-and-weekend-in-belgrade/
 slug: croatia-in-2008-and-weekend-in-belgrade
 title: Croatia in 2008 - and a weekend in Belgrade
 ---

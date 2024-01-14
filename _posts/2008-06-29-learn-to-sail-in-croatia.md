@@ -1,7 +1,9 @@
 ---
 date: '2008-06-29T15:04:00.002+01:00'
 description: Learn to sail in Croatia
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/learn-to-sail-in-croatia/
 slug: learn-to-sail-in-croatia
 title: Learn to sail in Croatia
 ---

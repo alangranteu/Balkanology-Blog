@@ -1,7 +1,9 @@
 ---
 date: '2010-07-25T11:52:00.001+01:00'
 description: Guidebook updates 2010
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/guidebook-updates-2010/
 slug: guidebook-updates-2010
 title: Guidebook updates 2010
 ---

@@ -1,7 +1,9 @@
 ---
 date: '2011-11-18T11:29:00.000Z'
 description: Last train from Italy to Slovenia
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/last-train-from-italy-to-slovenia/
 slug: last-train-from-italy-to-slovenia
 title: Last train from Italy to Slovenia
 ---

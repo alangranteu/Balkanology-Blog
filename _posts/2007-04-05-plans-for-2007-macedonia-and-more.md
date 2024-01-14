@@ -1,7 +1,9 @@
 ---
 date: '2007-04-05T20:47:00.000+01:00'
 description: 'Plans for 2007: Macedonia and more'
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/plans-for-2007-macedonia-and-more/
 slug: plans-for-2007-macedonia-and-more
 title: 'Plans for 2007: Macedonia and more'
 ---

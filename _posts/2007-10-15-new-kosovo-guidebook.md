@@ -1,7 +1,9 @@
 ---
 date: '2007-10-15T18:46:00.000+01:00'
 description: New Kosovo guidebook
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-kosovo-guidebook/
 slug: new-kosovo-guidebook
 title: New Kosovo guidebook
 ---

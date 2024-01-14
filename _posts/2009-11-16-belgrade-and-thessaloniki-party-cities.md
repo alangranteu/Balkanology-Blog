@@ -1,7 +1,9 @@
 ---
 date: '2009-11-16T18:16:00.002Z'
 description: Belgrade and Thessaloniki, party cities
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/belgrade-and-thessaloniki-party-cities/
 slug: belgrade-and-thessaloniki-party-cities
 title: Belgrade and Thessaloniki, party cities
 ---

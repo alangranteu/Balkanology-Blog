@@ -1,7 +1,9 @@
 ---
 date: '2006-04-15T22:00:00.000+01:00'
 description: Tirana appears on the UK press radar
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/tirana-appears-on-uk-press-radar/
 slug: tirana-appears-on-uk-press-radar
 title: Tirana appears on the UK press radar
 ---

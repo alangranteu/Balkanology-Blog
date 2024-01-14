@@ -1,7 +1,9 @@
 ---
 date: '2011-03-13T10:29:00.000Z'
 description: Flights from Belgrade to Dubrovnik in 2011
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/flights-from-belgrade-to-dubrovnik-in/
 slug: flights-from-belgrade-to-dubrovnik-in
 title: Flights from Belgrade to Dubrovnik in 2011
 ---

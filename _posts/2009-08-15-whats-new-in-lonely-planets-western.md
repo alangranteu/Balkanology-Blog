@@ -1,7 +1,9 @@
 ---
 date: '2009-08-15T19:08:00.005+01:00'
 description: What's new in Lonely Planet's "Western Balkans"?
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/whats-new-in-lonely-planets-western/
 slug: whats-new-in-lonely-planets-western
 title: What's new in Lonely Planet's "Western Balkans"?
 ---

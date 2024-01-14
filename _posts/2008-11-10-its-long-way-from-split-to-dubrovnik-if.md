@@ -1,7 +1,9 @@
 ---
 date: '2008-11-10T11:20:00.008Z'
 description: It's a long way from Split to Dubrovnik ... if you believe Google Maps
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/its-long-way-from-split-to-dubrovnik-if/
 slug: its-long-way-from-split-to-dubrovnik-if
 title: It's a long way from Split to Dubrovnik ... if you believe Google Maps
 ---

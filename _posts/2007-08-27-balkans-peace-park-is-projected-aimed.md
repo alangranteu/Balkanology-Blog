@@ -1,7 +1,9 @@
 ---
 date: '2007-08-27T15:10:00.000+01:00'
 description: Balkans Peace Park nominated for tourism award
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/balkans-peace-park-is-projected-aimed/
 slug: balkans-peace-park-is-projected-aimed
 title: Balkans Peace Park nominated for tourism award
 ---

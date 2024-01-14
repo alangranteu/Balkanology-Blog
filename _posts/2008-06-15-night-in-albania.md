@@ -1,7 +1,9 @@
 ---
 date: '2008-06-15T11:31:00.002+01:00'
 description: A night in Albania
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/night-in-albania/
 slug: night-in-albania
 title: A night in Albania
 ---

@@ -1,7 +1,9 @@
 ---
 date: '2009-08-03T10:50:00.004+01:00'
 description: Escape from British tourists in the Balkans
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/escape-from-british-tourists-in-balkans/
 slug: escape-from-british-tourists-in-balkans
 title: Escape from British tourists in the Balkans
 ---

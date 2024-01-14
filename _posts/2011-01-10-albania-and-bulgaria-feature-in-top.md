@@ -1,7 +1,9 @@
 ---
 date: '2011-01-10T12:41:00.025Z'
 description: Albania and Bulgaria feature in top destinations for 2011
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/albania-and-bulgaria-feature-in-top/
 slug: albania-and-bulgaria-feature-in-top
 title: Albania and Bulgaria feature in top destinations for 2011
 ---

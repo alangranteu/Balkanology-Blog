@@ -1,7 +1,9 @@
 ---
 date: '2008-07-09T21:56:00.002+01:00'
 description: Berat and Stari Grad added to World Heritage list
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/berat-and-stari-grad-added-to-world/
 slug: berat-and-stari-grad-added-to-world
 title: Berat and Stari Grad added to World Heritage list
 ---

@@ -1,7 +1,9 @@
 ---
 date: '2009-06-07T14:51:00.004+01:00'
 description: "Photos of Sz\xE9kely Land (Romania)"
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/photos-of-szekely-land-romania/
 slug: photos-of-szekely-land-romania
 title: "Photos of Sz\xE9kely Land (Romania)"
 ---

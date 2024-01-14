@@ -1,7 +1,9 @@
 ---
 date: '2009-03-02T16:42:00.010Z'
 description: 'New and updated guidebooks: Montenegro, Albania, and more'
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-and-updated-guidebooks-montenegro/
 slug: new-and-updated-guidebooks-montenegro
 title: 'New and updated guidebooks: Montenegro, Albania, and more'
 ---

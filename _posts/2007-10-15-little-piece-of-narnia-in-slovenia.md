@@ -1,7 +1,9 @@
 ---
 date: '2007-10-15T15:53:00.000+01:00'
 description: A little piece of Narnia in Slovenia
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/little-piece-of-narnia-in-slovenia/
 slug: little-piece-of-narnia-in-slovenia
 title: A little piece of Narnia in Slovenia
 ---

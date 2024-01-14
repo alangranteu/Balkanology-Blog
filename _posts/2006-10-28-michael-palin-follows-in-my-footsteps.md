@@ -1,7 +1,9 @@
 ---
 date: '2006-10-28T11:28:00.000+01:00'
 description: Michael Palin follows in my footsteps
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/michael-palin-follows-in-my-footsteps/
 slug: michael-palin-follows-in-my-footsteps
 title: Michael Palin follows in my footsteps
 ---

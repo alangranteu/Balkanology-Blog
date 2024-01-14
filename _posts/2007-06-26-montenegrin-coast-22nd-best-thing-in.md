@@ -1,7 +1,9 @@
 ---
 date: '2007-06-26T19:54:00.000+01:00'
 description: 'The Montenegrin Coast:: 22nd best thing in the world?'
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/montenegrin-coast-22nd-best-thing-in/
 slug: montenegrin-coast-22nd-best-thing-in
 title: 'The Montenegrin Coast:: 22nd best thing in the world?'
 ---

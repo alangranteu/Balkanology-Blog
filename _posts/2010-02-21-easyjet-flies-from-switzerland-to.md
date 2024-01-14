@@ -1,7 +1,9 @@
 ---
 date: '2010-02-21T21:42:00.000Z'
 description: Easyjet flies from Switzerland to Kosovo
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/easyjet-flies-from-switzerland-to/
 slug: easyjet-flies-from-switzerland-to
 title: Easyjet flies from Switzerland to Kosovo
 ---

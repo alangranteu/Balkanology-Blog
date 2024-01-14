@@ -1,7 +1,9 @@
 ---
 date: '2007-07-12T19:50:00.000+01:00'
 description: New guide to hiking in Montenegro
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-guide-to-hiking-in-montenegro/
 slug: new-guide-to-hiking-in-montenegro
 title: New guide to hiking in Montenegro
 ---

@@ -1,7 +1,9 @@
 ---
 date: '2006-05-06T11:39:00.000+01:00'
 description: Montenegro plots a tourist future without little old ladies
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/montenegro-plots-tourist-future/
 slug: montenegro-plots-tourist-future
 title: Montenegro plots a tourist future without little old ladies
 ---

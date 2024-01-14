@@ -1,7 +1,9 @@
 ---
 date: '2012-06-25T08:00:00.000+01:00'
 description: No more slow trains to Pogradec
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/no-more-slow-trains-to-pogradec/
 slug: no-more-slow-trains-to-pogradec
 title: No more slow trains to Pogradec
 ---

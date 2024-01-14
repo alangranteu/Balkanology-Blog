@@ -1,7 +1,9 @@
 ---
 date: '2011-01-16T12:43:00.001Z'
 description: More about Montenegro in the travel pages
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/more-about-montenegro-in-travel-pages/
 slug: more-about-montenegro-in-travel-pages
 title: More about Montenegro in the travel pages
 ---

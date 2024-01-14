@@ -1,7 +1,9 @@
 ---
 date: '2010-07-26T07:36:00.001+01:00'
 description: Turkish Airlines flies from Istanbul to Podgorica
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/turkish-airlines-flies-from-istanbul-to/
 slug: turkish-airlines-flies-from-istanbul-to
 title: Turkish Airlines flies from Istanbul to Podgorica
 ---

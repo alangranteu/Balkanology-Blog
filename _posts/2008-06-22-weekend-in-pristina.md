@@ -1,7 +1,9 @@
 ---
 date: '2008-06-22T12:54:00.003+01:00'
 description: A weekend in Pristina
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/weekend-in-pristina/
 slug: weekend-in-pristina
 title: A weekend in Pristina
 ---

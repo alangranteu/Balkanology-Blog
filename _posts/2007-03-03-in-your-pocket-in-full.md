@@ -1,7 +1,9 @@
 ---
 date: '2007-03-03T12:22:00.000Z'
 description: In Your Pocket, in full
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/in-your-pocket-in-full/
 slug: in-your-pocket-in-full
 title: In Your Pocket, in full
 ---

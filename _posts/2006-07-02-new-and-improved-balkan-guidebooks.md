@@ -1,7 +1,9 @@
 ---
 date: '2006-07-02T16:53:00.000+01:00'
 description: New and improved Balkan guidebooks
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-and-improved-balkan-guidebooks/
 slug: new-and-improved-balkan-guidebooks
 title: New and improved Balkan guidebooks
 ---

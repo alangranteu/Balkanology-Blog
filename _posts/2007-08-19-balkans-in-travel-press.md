@@ -1,7 +1,9 @@
 ---
 date: '2007-08-19T15:20:00.001+01:00'
 description: The Balkans in the travel press
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/balkans-in-travel-press/
 slug: balkans-in-travel-press
 title: The Balkans in the travel press
 ---

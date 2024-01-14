@@ -1,7 +1,9 @@
 ---
 date: '2010-10-29T14:40:00.001+01:00'
 description: At last, direct flights from Dubrovnik to Athens
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/at-last-direct-flights-from-dubrovnik/
 slug: at-last-direct-flights-from-dubrovnik
 title: At last, direct flights from Dubrovnik to Athens
 ---

@@ -1,7 +1,9 @@
 ---
 date: '2007-01-27T19:37:00.000Z'
 description: More about Durmitor
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/more-about-durmitor/
 slug: more-about-durmitor
 title: More about Durmitor
 ---

@@ -1,7 +1,9 @@
 ---
 date: '2013-06-03T15:46:00.000+01:00'
 description: New guidebook to Slovenia's Karavanke Mountains
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-guidebook-to-slovenias-karavanke/
 slug: new-guidebook-to-slovenias-karavanke
 title: New guidebook to Slovenia's Karavanke Mountains
 ---

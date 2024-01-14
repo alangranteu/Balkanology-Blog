@@ -1,7 +1,9 @@
 ---
 date: '2009-11-06T19:25:00.003Z'
 description: An end in sight for the "Kosovo passport stamp issue"?
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/end-in-sight-for-kosovo-passport-stamp/
 slug: end-in-sight-for-kosovo-passport-stamp
 title: An end in sight for the "Kosovo passport stamp issue"?
 ---

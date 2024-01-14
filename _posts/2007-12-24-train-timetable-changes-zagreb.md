@@ -1,7 +1,9 @@
 ---
 date: '2007-12-24T20:27:00.001Z'
 description: 'Train timetable changes: Zagreb-Thessaloniki no more'
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/train-timetable-changes-zagreb/
 slug: train-timetable-changes-zagreb
 title: 'Train timetable changes: Zagreb-Thessaloniki no more'
 ---

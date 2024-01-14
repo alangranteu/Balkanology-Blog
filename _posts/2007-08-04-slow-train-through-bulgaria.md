@@ -1,7 +1,9 @@
 ---
 date: '2007-08-04T11:23:00.000+01:00'
 description: A slow train through Bulgaria
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/slow-train-through-bulgaria/
 slug: slow-train-through-bulgaria
 title: A slow train through Bulgaria
 ---

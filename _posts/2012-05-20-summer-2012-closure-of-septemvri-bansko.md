@@ -1,7 +1,9 @@
 ---
 date: '2012-05-20T14:44:00.001+01:00'
 description: Summer 2012 closure of the Septemvri-Bansko railway (UPDATED)
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/summer-2012-closure-of-septemvri-bansko/
 slug: summer-2012-closure-of-septemvri-bansko
 title: Summer 2012 closure of the Septemvri-Bansko railway (UPDATED)
 ---

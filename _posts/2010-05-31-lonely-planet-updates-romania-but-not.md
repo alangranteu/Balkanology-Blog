@@ -1,7 +1,9 @@
 ---
 date: '2010-05-31T16:45:00.000+01:00'
 description: Lonely Planet updates Romania ... but not Moldova
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/lonely-planet-updates-romania-but-not/
 slug: lonely-planet-updates-romania-but-not
 title: Lonely Planet updates Romania ... but not Moldova
 ---

@@ -1,8 +1,8 @@
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
+ # - jekyll-sitemap
   - jekyll-relative-links
-  - jekyll-seo-tag
+ # - jekyll-seo-tag
 
 # SEO Stuff
 name: Balkanology - Explore Southeast Europe
@@ -15,8 +15,8 @@ url: "https://blog.balkanology.com"
 baseurl: ""
 
 # RSS feeds
-feed:
-  posts_limit: 20
+# feed:
+#  posts_limit: 20
 
 permalink: /:year/:month/:slug:output_ext
 

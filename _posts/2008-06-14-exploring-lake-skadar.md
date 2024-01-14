@@ -1,7 +1,9 @@
 ---
 date: '2008-06-14T12:05:00.002+01:00'
 description: Exploring Lake Skadar
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/exploring-lake-skadar/
 slug: exploring-lake-skadar
 title: Exploring Lake Skadar
 ---

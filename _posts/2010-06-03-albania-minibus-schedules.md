@@ -1,7 +1,9 @@
 ---
 date: '2010-06-03T20:03:00.008+01:00'
 description: Albania Minibus Schedules
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/albania-minibus-schedules/
 slug: albania-minibus-schedules
 title: Albania Minibus Schedules
 ---

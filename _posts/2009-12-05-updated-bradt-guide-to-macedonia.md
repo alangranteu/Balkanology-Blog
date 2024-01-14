@@ -1,7 +1,9 @@
 ---
 date: '2009-12-05T00:05:00.002Z'
 description: Updated Bradt Guide to Macedonia
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/updated-bradt-guide-to-macedonia/
 slug: updated-bradt-guide-to-macedonia
 title: Updated Bradt Guide to Macedonia
 ---

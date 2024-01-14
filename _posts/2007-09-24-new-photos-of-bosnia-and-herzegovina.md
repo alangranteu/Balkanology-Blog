@@ -1,7 +1,9 @@
 ---
 date: '2007-09-24T12:01:00.000+01:00'
 description: New photos of Bosnia and Herzegovina
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-photos-of-bosnia-and-herzegovina/
 slug: new-photos-of-bosnia-and-herzegovina
 title: New photos of Bosnia and Herzegovina
 ---

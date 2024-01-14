@@ -1,7 +1,9 @@
 ---
 date: '2017-05-12T12:40:00.000+01:00'
 description: Europe by Rail (guidebook review)
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/europe-by-rail-guidebook-review/
 slug: europe-by-rail-guidebook-review
 title: Europe by Rail (guidebook review)
 ---

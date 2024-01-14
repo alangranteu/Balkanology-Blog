@@ -1,7 +1,9 @@
 ---
 date: '2006-03-15T22:54:00.000Z'
 description: Railway revival in Kosovo and Macedonia
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/railway-revival-in-kosovo-and/
 slug: railway-revival-in-kosovo-and
 title: Railway revival in Kosovo and Macedonia
 ---

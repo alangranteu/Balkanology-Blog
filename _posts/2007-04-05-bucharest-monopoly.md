@@ -1,7 +1,9 @@
 ---
 date: '2007-04-05T22:40:00.000+01:00'
 description: Bucharest Monopoly
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/bucharest-monopoly/
 slug: bucharest-monopoly
 title: Bucharest Monopoly
 ---

@@ -1,7 +1,9 @@
 ---
 date: '2016-07-07T16:15:00.000+01:00'
 description: The Alpe Adria Trail
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/the-alpe-adria-trail/
 slug: the-alpe-adria-trail
 title: The Alpe Adria Trail
 ---

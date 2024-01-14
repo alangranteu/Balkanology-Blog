@@ -1,7 +1,9 @@
 ---
 date: '2014-12-03T21:17:00.000Z'
 description: New international train services December 2014
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-international-train-services/
 slug: new-international-train-services
 title: New international train services December 2014
 ---

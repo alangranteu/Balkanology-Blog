@@ -2,7 +2,9 @@
 date: '2010-12-29T21:23:00.003Z'
 description: Greece cuts train services - all international trains suspended (or maybe
   not?)
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/greece-cuts-train-services-all/
 slug: greece-cuts-train-services-all
 title: Greece cuts train services - all international trains suspended (or maybe not?)
 ---

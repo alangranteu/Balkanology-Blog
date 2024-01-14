@@ -1,7 +1,9 @@
 ---
 date: '2007-12-19T20:37:00.000Z'
 description: Macedonia drops visa requirement for Canadian tourists
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/macedonia-drops-visa-requirement-for/
 slug: macedonia-drops-visa-requirement-for
 title: Macedonia drops visa requirement for Canadian tourists
 ---

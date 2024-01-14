@@ -1,7 +1,9 @@
 ---
 date: '2009-01-07T19:51:00.003Z'
 description: Flights from Liverpool to Dubrovnik ... and more
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/flights-from-liverpool-to-dubrovnik-and/
 slug: flights-from-liverpool-to-dubrovnik-and
 title: Flights from Liverpool to Dubrovnik ... and more
 ---

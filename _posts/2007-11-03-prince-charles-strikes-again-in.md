@@ -1,7 +1,9 @@
 ---
 date: '2007-11-03T10:46:00.000Z'
 description: Prince Charles strikes again in Transylvania
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/prince-charles-strikes-again-in/
 slug: prince-charles-strikes-again-in
 title: Prince Charles strikes again in Transylvania
 ---

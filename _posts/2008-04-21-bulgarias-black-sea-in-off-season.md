@@ -1,7 +1,9 @@
 ---
 date: '2008-04-21T20:05:00.006+01:00'
 description: Bulgaria's Black Sea in the off season
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/bulgarias-black-sea-in-off-season/
 slug: bulgarias-black-sea-in-off-season
 title: Bulgaria's Black Sea in the off season
 ---

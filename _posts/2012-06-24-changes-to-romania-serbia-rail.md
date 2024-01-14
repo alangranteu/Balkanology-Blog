@@ -1,7 +1,9 @@
 ---
 date: '2012-06-24T15:04:00.001+01:00'
 description: Changes to Romania-Serbia rail connections
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/changes-to-romania-serbia-rail/
 slug: changes-to-romania-serbia-rail
 title: Changes to Romania-Serbia rail connections
 ---

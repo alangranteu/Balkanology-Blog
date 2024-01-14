@@ -1,7 +1,9 @@
 ---
 date: '2009-07-01T20:25:00.002+01:00'
 description: From Skopje to the sea by train
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/from-skopje-to-sea-by-train/
 slug: from-skopje-to-sea-by-train
 title: From Skopje to the sea by train
 ---

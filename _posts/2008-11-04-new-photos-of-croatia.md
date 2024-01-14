@@ -1,7 +1,9 @@
 ---
 date: '2008-11-04T20:34:00.002Z'
 description: New photos of Croatia
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-photos-of-croatia/
 slug: new-photos-of-croatia
 title: New photos of Croatia
 ---

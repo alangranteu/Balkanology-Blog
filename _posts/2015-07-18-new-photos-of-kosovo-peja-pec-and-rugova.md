@@ -1,7 +1,9 @@
 ---
 date: '2015-07-18T13:35:00.000+01:00'
 description: "New photos of Kosovo: Peja (Pe\u0107) and Rugova"
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-photos-of-kosovo-peja-pec-and-rugova/
 slug: new-photos-of-kosovo-peja-pec-and-rugova
 title: "New photos of Kosovo: Peja (Pe\u0107) and Rugova"
 ---

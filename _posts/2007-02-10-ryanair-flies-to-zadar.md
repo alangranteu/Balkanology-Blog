@@ -1,7 +1,9 @@
 ---
 date: '2007-02-10T15:32:00.000Z'
 description: Ryanair flies to Zadar
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/ryanair-flies-to-zadar/
 slug: ryanair-flies-to-zadar
 title: Ryanair flies to Zadar
 ---

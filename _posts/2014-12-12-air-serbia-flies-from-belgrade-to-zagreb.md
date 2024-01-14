@@ -1,7 +1,9 @@
 ---
 date: '2014-12-12T22:06:00.001Z'
 description: Air Serbia flies from Belgrade to Zagreb
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/air-serbia-flies-from-belgrade-to-zagreb/
 slug: air-serbia-flies-from-belgrade-to-zagreb
 title: Air Serbia flies from Belgrade to Zagreb
 ---

@@ -1,7 +1,9 @@
 ---
 date: '2008-08-23T13:57:00.002+01:00'
 description: Veliko Turnovo
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/veliko-turnovo/
 slug: veliko-turnovo
 title: Veliko Turnovo
 ---

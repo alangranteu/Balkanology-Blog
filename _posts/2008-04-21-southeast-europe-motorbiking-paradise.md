@@ -1,7 +1,9 @@
 ---
 date: '2008-04-21T20:38:00.005+01:00'
 description: Southeast Europe, motorbiking paradise?
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/southeast-europe-motorbiking-paradise/
 slug: southeast-europe-motorbiking-paradise
 title: Southeast Europe, motorbiking paradise?
 ---

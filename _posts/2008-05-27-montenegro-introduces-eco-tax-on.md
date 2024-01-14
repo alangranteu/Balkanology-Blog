@@ -1,7 +1,9 @@
 ---
 date: '2008-05-27T21:40:00.004+01:00'
 description: Montenegro introduces "eco tax" on tourist cars
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/montenegro-introduces-eco-tax-on/
 slug: montenegro-introduces-eco-tax-on
 title: Montenegro introduces "eco tax" on tourist cars
 ---

@@ -1,7 +1,9 @@
 ---
 date: '2008-12-28T14:43:00.002Z'
 description: Easyjet flies from London Gatwick to Dubrovnik
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/easyjet-flies-from-london-gatwick-to/
 slug: easyjet-flies-from-london-gatwick-to
 title: Easyjet flies from London Gatwick to Dubrovnik
 ---

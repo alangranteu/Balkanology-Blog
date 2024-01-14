@@ -1,7 +1,9 @@
 ---
 date: '2008-03-01T12:32:00.003Z'
 description: Not about the Balkans
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/those-up-you-who-keep-up-to-date-with/
 slug: those-up-you-who-keep-up-to-date-with
 title: Not about the Balkans
 ---

@@ -1,7 +1,9 @@
 ---
 date: '2013-01-17T16:49:00.000Z'
 description: By train through the Rhodopes
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/by-train-through-rhodopes/
 slug: by-train-through-rhodopes
 title: By train through the Rhodopes
 ---

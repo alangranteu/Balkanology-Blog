@@ -1,7 +1,9 @@
 ---
 date: '2009-12-12T16:52:00.002Z'
 description: New direct train from Sarajevo to Belgrade
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-direct-train-from-sarajevo-to/
 slug: new-direct-train-from-sarajevo-to
 title: New direct train from Sarajevo to Belgrade
 ---

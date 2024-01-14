@@ -1,7 +1,9 @@
 ---
 date: '2008-11-08T17:04:00.003Z'
 description: Through the Balkans by motorcycle - a trip report
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/through-balkans-by-motorcycle-trip/
 slug: through-balkans-by-motorcycle-trip
 title: Through the Balkans by motorcycle - a trip report
 ---

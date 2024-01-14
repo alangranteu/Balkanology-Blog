@@ -1,7 +1,9 @@
 ---
 date: '2006-04-25T22:44:00.000+01:00'
 description: New photos of Greece
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-photos-of-greece/
 slug: new-photos-of-greece
 title: New photos of Greece
 ---

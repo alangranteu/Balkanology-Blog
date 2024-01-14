@@ -1,7 +1,9 @@
 ---
 date: '2008-11-08T11:42:00.002Z'
 description: 'Belgrade: the best nightlife in Europe?'
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/belgrade-best-nightlife-in-europe/
 slug: belgrade-best-nightlife-in-europe
 title: 'Belgrade: the best nightlife in Europe?'
 ---

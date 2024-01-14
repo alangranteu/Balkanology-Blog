@@ -1,7 +1,9 @@
 ---
 date: '2007-09-14T16:59:00.000+01:00'
 description: 'Palin''s New Europe: series begins this Sunday'
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/palins-new-europe-series-begins-this/
 slug: palins-new-europe-series-begins-this
 title: 'Palin''s New Europe: series begins this Sunday'
 ---

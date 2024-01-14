@@ -1,7 +1,9 @@
 ---
 date: '2007-04-02T20:05:00.000+01:00'
 description: London to Sarajevo
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/london-to-sarajevo/
 slug: london-to-sarajevo
 title: London to Sarajevo
 ---

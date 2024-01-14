@@ -1,7 +1,9 @@
 ---
 date: '2010-06-01T20:32:00.001+01:00'
 description: New direct flight from Croatia to Greece
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-direct-flight-from-croatia-to/
 slug: new-direct-flight-from-croatia-to
 title: New direct flight from Croatia to Greece
 ---

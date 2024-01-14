@@ -1,7 +1,9 @@
 ---
 date: '2013-11-21T18:24:00.000Z'
 description: JAT becomes Air Serbia and expands its route network
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/jat-becomes-air-serbia-and-expands-its/
 slug: jat-becomes-air-serbia-and-expands-its
 title: JAT becomes Air Serbia and expands its route network
 ---

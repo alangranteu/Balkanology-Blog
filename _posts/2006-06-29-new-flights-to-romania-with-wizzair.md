@@ -1,7 +1,9 @@
 ---
 date: '2006-06-29T20:24:00.000+01:00'
 description: New flights to Romania with Wizzair
+layout: redirected_post
 published: true
+redirect_to: https://balkanology.com/blog/new-flights-to-romania-with-wizzair/
 slug: new-flights-to-romania-with-wizzair
 title: New flights to Romania with Wizzair
 ---
